@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "mathematics",
+    "front": "What is a whole number?",
+    "back": "A whole number is any number with no fractions or decimals, starting at zero: 0, 1, 2, 3, and so on. For example, 15 is a whole number but 15.5 is not."
+  },
+  {
+    "id": 2,
+    "domain": "mathematics",
+    "front": "What does 'place value' mean?",
+    "back": "Place value means the position of a digit tells you how much it is worth. In the number 472, the 4 is worth 400, the 7 is worth 70, and the 2 is worth 2."
+  },
+  {
+    "id": 3,
+    "domain": "mathematics",
+    "front": "How do you round a number to the nearest ten?",
+    "back": "Look at the ones digit. If it is 5 or more, round up; if it is 4 or less, round down. For example, 67 rounds up to 70, and 63 rounds down to 60."
+  },
+  {
+    "id": 4,
+    "domain": "mathematics",
+    "front": "What is a fraction?",
+    "back": "A fraction shows part of a whole. The bottom number (denominator) tells you how many equal parts the whole is split into, and the top number (numerator) tells you how many parts you have. For example, 3/4 means 3 out of 4 equal parts."
+  },
+  {
+    "id": 5,
+    "domain": "mathematics",
+    "front": "How do you add fractions with the same denominator?",
+    "back": "Keep the denominator the same and add only the numerators. For example, 2/7 + 3/7 = 5/7. The denominator stays 7 because the size of each piece did not change."
+  },
+  {
+    "id": 6,
+    "domain": "mathematics",
+    "front": "How do you add fractions with different denominators?",
+    "back": "First find a common denominator (a number both denominators divide into evenly), then rewrite both fractions using that denominator, then add the numerators. For example, 1/2 + 1/3: the common denominator is 6, so it becomes 3/6 + 2/6 = 5/6."
+  },
+  {
+    "id": 7,
+    "domain": "mathematics",
+    "front": "How do you multiply two fractions?",
+    "back": "Multiply the numerators together and multiply the denominators together. For example, 2/3 x 4/5 = (2x4)/(3x5) = 8/15. Always simplify the result if possible."
+  },
+  {
+    "id": 8,
+    "domain": "mathematics",
+    "front": "How do you divide one fraction by another fraction?",
+    "back": "Flip the second fraction upside down (find its reciprocal), then multiply. For example, 3/4 divided by 1/2 becomes 3/4 x 2/1 = 6/4, which simplifies to 3/2 or 1 and 1/2."
+  },
+  {
+    "id": 9,
+    "domain": "mathematics",
+    "front": "How do you convert a fraction to a decimal?",
+    "back": "Divide the numerator by the denominator. For example, 3/4 means 3 divided by 4, which equals 0.75. You can do this with long division or a calculator."
+  },
+  {
+    "id": 10,
+    "domain": "mathematics",
+    "front": "How do you convert a decimal to a percent?",
+    "back": "Multiply the decimal by 100 and add the percent sign. For example, 0.45 x 100 = 45%. Think of it as moving the decimal point two places to the right."
+  },
+  {
+    "id": 11,
+    "domain": "mathematics",
+    "front": "How do you find a percent of a number?",
+    "back": "Convert the percent to a decimal by dividing by 100, then multiply by the number. For example, 30% of 80 = 0.30 x 80 = 24."
+  },
+  {
+    "id": 12,
+    "domain": "mathematics",
+    "front": "What does 'simplify a fraction' mean?",
+    "back": "Simplifying means dividing both the numerator and denominator by the largest number that goes into both evenly. For example, 8/12 simplifies to 2/3 because both 8 and 12 are divisible by 4."
+  },
+  {
+    "id": 13,
+    "domain": "mathematics",
+    "front": "What is a ratio?",
+    "back": "A ratio compares two quantities and shows how many times one contains the other. For example, a ratio of 3:2 means for every 3 of the first thing there are 2 of the second. Ratios can also be written as 3/2 or '3 to 2'."
+  },
+  {
+    "id": 14,
+    "domain": "mathematics",
+    "front": "How do you use a ratio to share an amount?",
+    "back": "Add the ratio parts together to find the total number of shares, then divide the amount by that total, then multiply by each part. For example, sharing $50 in a 2:3 ratio gives 2+3=5 shares; each share is $10; so one person gets $20 and the other gets $30."
+  },
+  {
+    "id": 15,
+    "domain": "mathematics",
+    "front": "What is a proportion?",
+    "back": "A proportion is an equation that says two ratios are equal. For example, 2/4 = 5/10 is a proportion. You use proportions to solve problems like 'if 3 apples cost $1.50, how much do 9 apples cost?'"
+  },
+  {
+    "id": 16,
+    "domain": "mathematics",
+    "front": "How do you solve a proportion using cross-multiplication?",
+    "back": "Multiply the top-left number by the bottom-right number, and set it equal to the top-right number times the bottom-left number. For example, if 3/x = 6/10, then 3x10 = 6xx, so 30 = 6x, so x = 5."
+  },
+  {
+    "id": 17,
+    "domain": "mathematics",
+    "front": "What is an improper fraction?",
+    "back": "An improper fraction has a numerator larger than or equal to the denominator, like 7/4. It means the value is greater than 1 whole. You can convert it to a mixed number: 7/4 = 1 and 3/4."
+  },
+  {
+    "id": 18,
+    "domain": "mathematics",
+    "front": "How do you convert a mixed number to an improper fraction?",
+    "back": "Multiply the whole number by the denominator, then add the numerator, then put that result over the same denominator. For example, 2 and 3/5 = (2x5 + 3)/5 = 13/5."
+  },
+  {
+    "id": 19,
+    "domain": "mathematics",
+    "front": "How do you order decimals from smallest to largest?",
+    "back": "Line up the decimal points and compare digit by digit from left to right. For example, comparing 0.3, 0.25, and 0.305: the tenths digits are 3, 2, and 3 -- so 0.25 is smallest, then compare 0.3 and 0.305, and 0.305 is larger because 0.300 vs 0.305."
+  },
+  {
+    "id": 20,
+    "domain": "mathematics",
+    "front": "What is a percent increase or decrease?",
+    "back": "Percent change = (amount of change / original amount) x 100. For example, if a price goes from $40 to $50, the change is $10, so the percent increase = (10/40) x 100 = 25%."
+  },
+  {
+    "id": 21,
+    "domain": "mathematics",
+    "front": "What does HST stand for and what is the rate in Ontario?",
+    "back": "HST stands for Harmonized Sales Tax. In Ontario, HST is 13% of the purchase price. It combines the federal portion (5%) and the Ontario provincial portion (8%) into one tax."
+  },
+  {
+    "id": 22,
+    "domain": "mathematics",
+    "front": "How do you calculate the HST amount on a purchase?",
+    "back": "Multiply the original price by the tax rate as a decimal. For example, HST on a $60 item in Ontario = $60 x 0.13 = $7.80. The total you pay is $60 + $7.80 = $67.80."
+  },
+  {
+    "id": 23,
+    "domain": "mathematics",
+    "front": "How do you calculate a tip at a restaurant?",
+    "back": "Multiply the bill total by the tip percentage as a decimal. For example, a 15% tip on a $48 bill = $48 x 0.15 = $7.20. A quick method is to find 10% first ($4.80) and add half of that ($2.40) to get $7.20."
+  },
+  {
+    "id": 24,
+    "domain": "mathematics",
+    "front": "How do you calculate a discount on an item?",
+    "back": "Multiply the original price by the discount percent as a decimal to find the amount saved, then subtract from the original price. For example, 20% off $75: $75 x 0.20 = $15 saved; sale price = $75 - $15 = $60."
+  },
+  {
+    "id": 25,
+    "domain": "mathematics",
+    "front": "How do you find the sale price after a percent discount?",
+    "back": "Subtract the discount percent from 100% to find the percent you pay, then multiply by the original price. For example, 30% off $50 means you pay 70%, so $50 x 0.70 = $35."
+  },
+  {
+    "id": 26,
+    "domain": "mathematics",
+    "front": "What is a budget?",
+    "back": "A budget is a plan that lists your expected income and expenses so you can see how much money you have and where it goes. A balanced budget means your income equals or is greater than your expenses."
+  },
+  {
+    "id": 27,
+    "domain": "mathematics",
+    "front": "How do you check if a budget is balanced?",
+    "back": "Add up all income, add up all expenses, then subtract total expenses from total income. If the result is zero or positive, the budget is balanced. If it is negative, you are spending more than you earn."
+  },
+  {
+    "id": 28,
+    "domain": "mathematics",
+    "front": "What is simple interest?",
+    "back": "Simple interest is extra money charged or earned on a loan or savings based only on the original amount. The formula is: Interest = Principal x Rate x Time. For example, $500 at 4% for 2 years earns $500 x 0.04 x 2 = $40."
+  },
+  {
+    "id": 29,
+    "domain": "mathematics",
+    "front": "What is principal in a financial math problem?",
+    "back": "Principal is the original amount of money borrowed or invested before any interest is added. For example, if you take out a $1,000 loan, the principal is $1,000."
+  },
+  {
+    "id": 30,
+    "domain": "mathematics",
+    "front": "How do you calculate the unit price of an item?",
+    "back": "Divide the total price by the number of units. For example, if 4 cans of soup cost $6.00, the unit price = $6.00 / 4 = $1.50 per can. Comparing unit prices helps you find the best deal."
+  },
+  {
+    "id": 31,
+    "domain": "mathematics",
+    "front": "How do you calculate how much change you receive?",
+    "back": "Subtract the price of the item from the amount you paid. For example, you buy something for $13.75 and pay with $20.00; change = $20.00 - $13.75 = $6.25."
+  },
+  {
+    "id": 32,
+    "domain": "mathematics",
+    "front": "What is net pay vs gross pay?",
+    "back": "Gross pay is your total earnings before any deductions. Net pay is what you actually take home after taxes and other deductions are removed. For example, gross pay $800, deductions $150, net pay = $650."
+  },
+  {
+    "id": 33,
+    "domain": "mathematics",
+    "front": "How do you calculate weekly pay from an hourly wage?",
+    "back": "Multiply the hourly rate by the number of hours worked. For example, earning $18.50 per hour for 35 hours = $18.50 x 35 = $647.50 per week."
+  },
+  {
+    "id": 34,
+    "domain": "mathematics",
+    "front": "How do you calculate overtime pay?",
+    "back": "Overtime is paid at 1.5 times the regular hourly rate. The threshold varies: 40 hours/week for federally regulated workers (and most provinces), 44 hours/week in Ontario and Alberta. Always use the threshold stated in the question. Example: $16/hr x 1.5 = $24/hr overtime rate."
+  },
+  {
+    "id": 35,
+    "domain": "mathematics",
+    "front": "How do you estimate the total cost of several items at a store?",
+    "back": "Round each price to the nearest dollar, then add the rounded amounts together. For example, $3.95 + $7.10 + $1.89 rounds to $4 + $7 + $2 = $13 as a quick estimate."
+  },
+  {
+    "id": 36,
+    "domain": "mathematics",
+    "front": "How do you compare two sale prices to find the better deal?",
+    "back": "Calculate the final price after discount for each item, or calculate the unit price for each, then compare. The lower final price or lower unit price is the better deal. Always check that you are comparing the same quantity."
+  },
+  {
+    "id": 37,
+    "domain": "mathematics",
+    "front": "How do you find the total cost including HST?",
+    "back": "Multiply the pre-tax price by 1 plus the tax rate as a decimal. In Ontario with 13% HST: Total = Price x 1.13. For example, $80 x 1.13 = $90.40."
+  },
+  {
+    "id": 38,
+    "domain": "mathematics",
+    "front": "How do you calculate a commission earned on a sale?",
+    "back": "Multiply the total sales amount by the commission rate as a decimal. For example, earning 5% commission on $2,000 in sales = $2,000 x 0.05 = $100."
+  },
+  {
+    "id": 39,
+    "domain": "mathematics",
+    "front": "How do you calculate mortgage or rent as a percent of income?",
+    "back": "Divide housing cost by total income, then multiply by 100. For example, rent of $1,200 on a monthly income of $3,600 = (1,200 / 3,600) x 100 = 33.3% of income spent on housing."
+  },
+  {
+    "id": 40,
+    "domain": "mathematics",
+    "front": "What is 'perimeter' and how do you find it?",
+    "back": "Perimeter is the total distance around the outside of a shape. You find it by adding the lengths of all the sides together. For example, a rectangle with sides 5m and 3m has perimeter = 5 + 3 + 5 + 3 = 16m."
+  },
+  {
+    "id": 41,
+    "domain": "mathematics",
+    "front": "What is the formula for the perimeter of a rectangle?",
+    "back": "Perimeter = 2 x (length + width), or P = 2l + 2w. For example, a rectangle 9cm long and 4cm wide: P = 2 x (9 + 4) = 2 x 13 = 26cm."
+  },
+  {
+    "id": 42,
+    "domain": "mathematics",
+    "front": "What is the formula for the area of a rectangle?",
+    "back": "Area = length x width. For example, a rectangle 8m long and 5m wide has area = 8 x 5 = 40m\u00b2. Area is always measured in square units."
+  },
+  {
+    "id": 43,
+    "domain": "mathematics",
+    "front": "What is the formula for the area of a triangle?",
+    "back": "Area = (base x height) / 2. The height must be measured at a right angle (straight up) from the base to the top point. For example, a triangle with base 10cm and height 6cm has area = (10 x 6) / 2 = 30cm\u00b2."
+  },
+  {
+    "id": 44,
+    "domain": "mathematics",
+    "front": "What is the formula for the area of a parallelogram?",
+    "back": "Area = base x height. The height is the perpendicular (straight-up) distance between the two parallel sides, not the slant length. For example, base 8m and height 5m gives area = 8 x 5 = 40m\u00b2."
+  },
+  {
+    "id": 45,
+    "domain": "mathematics",
+    "front": "What is 'area' and what units is it measured in?",
+    "back": "Area is the amount of flat space a 2D shape covers. It is measured in square units such as cm\u00b2, m\u00b2, or km\u00b2. You need area when tiling a floor, painting a wall, or buying carpet."
+  },
+  {
+    "id": 46,
+    "domain": "mathematics",
+    "front": "What is the formula for the circumference of a circle?",
+    "back": "Circumference = 2 x pi x radius, or C = 2(pi)r. Pi is approximately 3.14. For example, a circle with radius 5cm has circumference = 2 x 3.14 x 5 = 31.4cm."
+  },
+  {
+    "id": 47,
+    "domain": "mathematics",
+    "front": "What is the formula for the area of a circle?",
+    "back": "Area = pi x radius squared, or A = (pi)r\u00b2. Pi is approximately 3.14. For example, a circle with radius 4m has area = 3.14 x 4\u00b2 = 3.14 x 16 = 50.24m\u00b2."
+  },
+  {
+    "id": 48,
+    "domain": "mathematics",
+    "front": "What is the difference between radius and diameter of a circle?",
+    "back": "The radius is the distance from the center of the circle to the edge. The diameter is the full distance across the circle through the center. Diameter = 2 x radius. For example, if the radius is 6cm, the diameter is 12cm."
+  },
+  {
+    "id": 49,
+    "domain": "mathematics",
+    "front": "What is the Pythagorean theorem?",
+    "back": "In a right triangle, the square of the longest side (hypotenuse, labeled c) equals the sum of the squares of the other two sides: a\u00b2 + b\u00b2 = c\u00b2. For example, if a = 3 and b = 4, then c\u00b2 = 9 + 16 = 25, so c = 5."
+  },
+  {
+    "id": 50,
+    "domain": "mathematics",
+    "front": "Which side is the hypotenuse in a right triangle?",
+    "back": "The hypotenuse is the longest side of a right triangle and is always opposite the right angle (the 90-degree corner). In the Pythagorean theorem a\u00b2 + b\u00b2 = c\u00b2, c represents the hypotenuse."
+  },
+  {
+    "id": 51,
+    "domain": "mathematics",
+    "front": "How do you use the Pythagorean theorem to find a missing side?",
+    "back": "If you know two sides, plug them into a\u00b2 + b\u00b2 = c\u00b2. Solve for the unknown. For example, if a = 6 and c = 10, then 6\u00b2 + b\u00b2 = 10\u00b2, so 36 + b\u00b2 = 100, b\u00b2 = 64, and b = 8."
+  },
+  {
+    "id": 52,
+    "domain": "mathematics",
+    "front": "What is the formula for the volume of a rectangular prism (box)?",
+    "back": "Volume = length x width x height, or V = l x w x h. For example, a box that is 4m long, 3m wide, and 2m tall has volume = 4 x 3 x 2 = 24m\u00b3. Volume is measured in cubic units."
+  },
+  {
+    "id": 53,
+    "domain": "mathematics",
+    "front": "What is the formula for the volume of a cylinder?",
+    "back": "Volume = pi x radius\u00b2 x height, or V = (pi)r\u00b2h. For example, a cylinder with radius 3m and height 10m has volume = 3.14 x 9 x 10 = 282.6m\u00b3."
+  },
+  {
+    "id": 54,
+    "domain": "mathematics",
+    "front": "What does 'volume' mean and what units is it measured in?",
+    "back": "Volume is the amount of 3D space a solid shape takes up, or how much a container can hold. It is measured in cubic units such as cm\u00b3, m\u00b3, or litres. One litre equals 1,000 cm\u00b3."
+  },
+  {
+    "id": 55,
+    "domain": "mathematics",
+    "front": "What is a composite shape?",
+    "back": "A composite shape is made up of two or more basic shapes joined together. To find its area or perimeter, you break it into the simpler shapes you recognize, calculate each one separately, then add or subtract the results."
+  },
+  {
+    "id": 56,
+    "domain": "mathematics",
+    "front": "How do you find the area of an L-shaped room?",
+    "back": "Split the L-shape into two rectangles. Find the area of each rectangle separately, then add the two areas together. Make sure you use the correct length and width for each smaller rectangle."
+  },
+  {
+    "id": 57,
+    "domain": "mathematics",
+    "front": "What is the formula for the perimeter of a square?",
+    "back": "Perimeter = 4 x side length, since all four sides of a square are equal. For example, a square with sides of 7cm has perimeter = 4 x 7 = 28cm."
+  },
+  {
+    "id": 58,
+    "domain": "mathematics",
+    "front": "What is the formula for the area of a square?",
+    "back": "Area = side x side = side\u00b2. For example, a square with sides of 6m has area = 6 x 6 = 36m\u00b2. Because both sides are equal, you just multiply the side length by itself."
+  },
+  {
+    "id": 59,
+    "domain": "mathematics",
+    "front": "How do you find the area of a shape with a hole in it?",
+    "back": "Find the area of the whole outer shape, then find the area of the hole, then subtract. For example, a 10x10m square room with a 2x2m pillar: area = 100m\u00b2 - 4m\u00b2 = 96m\u00b2 of usable floor space."
+  },
+  {
+    "id": 60,
+    "domain": "mathematics",
+    "front": "What is the surface area of a rectangular prism?",
+    "back": "Surface area is the total area of all six faces. Formula: SA = 2(lw + lh + wh). For example, a box 3m x 4m x 5m has SA = 2(3x4 + 3x5 + 4x5) = 2(12 + 15 + 20) = 2(47) = 94m\u00b2."
+  },
+  {
+    "id": 61,
+    "domain": "mathematics",
+    "front": "What does 'pi' (the symbol for pi) equal and what is it used for?",
+    "back": "Pi is approximately 3.14 (or 3.14159 more precisely). It is a fixed number used in all circle calculations. Any formula involving circles -- area, circumference, or cylinder volume -- uses pi."
+  },
+  {
+    "id": 62,
+    "domain": "mathematics",
+    "front": "How do you find the perimeter of a shape that includes a semicircle?",
+    "back": "Add the straight sides normally, then add half the circumference of the full circle for the curved part. Half circumference = pi x radius. For example, a semicircle of radius 5m adds pi x 5 = about 15.7m to the perimeter."
+  },
+  {
+    "id": 63,
+    "domain": "mathematics",
+    "front": "What is a right angle?",
+    "back": "A right angle is exactly 90 degrees. It looks like the corner of a square or piece of paper. Right angles appear in rectangles, squares, and right triangles, and are marked with a small square symbol in diagrams."
+  },
+  {
+    "id": 64,
+    "domain": "mathematics",
+    "front": "How many degrees are in a triangle?",
+    "back": "The three angles inside any triangle always add up to exactly 180 degrees. If you know two angles, subtract their sum from 180 to find the third. For example, if two angles are 45\u00b0 and 90\u00b0, the third angle = 180 - 45 - 90 = 45\u00b0."
+  },
+  {
+    "id": 65,
+    "domain": "mathematics",
+    "front": "What is the formula for the volume of a triangular prism?",
+    "back": "Volume = (area of the triangular face) x length of the prism. First find the triangle area using (base x height) / 2, then multiply by the length. For example, triangle area 12m\u00b2 and prism length 5m gives volume = 60m\u00b3."
+  },
+  {
+    "id": 66,
+    "domain": "mathematics",
+    "front": "How do you find the area of a trapezoid?",
+    "back": "Area = (sum of the two parallel sides / 2) x height. In formula form: A = ((a + b) / 2) x h. For example, parallel sides of 6m and 10m with height 4m: A = ((6 + 10) / 2) x 4 = 8 x 4 = 32m\u00b2."
+  },
+  {
+    "id": 67,
+    "domain": "mathematics",
+    "front": "How do you convert kilometres to metres?",
+    "back": "Multiply the number of kilometres by 1,000 because there are 1,000 metres in one kilometre. For example, 3.5 km = 3.5 x 1,000 = 3,500 metres."
+  },
+  {
+    "id": 68,
+    "domain": "mathematics",
+    "front": "How do you convert metres to centimetres?",
+    "back": "Multiply the number of metres by 100 because there are 100 centimetres in one metre. For example, 2.4 m = 2.4 x 100 = 240 cm."
+  },
+  {
+    "id": 69,
+    "domain": "mathematics",
+    "front": "How do you convert centimetres to millimetres?",
+    "back": "Multiply by 10 because there are 10 millimetres in one centimetre. For example, 15 cm = 15 x 10 = 150 mm. To go the other way (mm to cm), divide by 10."
+  },
+  {
+    "id": 70,
+    "domain": "mathematics",
+    "front": "What is the basic metric prefix order for length?",
+    "back": "From largest to smallest: kilometre (km), metre (m), centimetre (cm), millimetre (mm). Each step is 10 times smaller. To convert down (larger to smaller unit), multiply. To convert up (smaller to larger unit), divide."
+  },
+  {
+    "id": 71,
+    "domain": "mathematics",
+    "front": "How do you convert kilograms to grams?",
+    "back": "Multiply by 1,000 because there are 1,000 grams in one kilogram. For example, 2.5 kg = 2.5 x 1,000 = 2,500 grams. To convert grams to kilograms, divide by 1,000."
+  },
+  {
+    "id": 72,
+    "domain": "mathematics",
+    "front": "How do you convert litres to millilitres?",
+    "back": "Multiply by 1,000 because there are 1,000 millilitres in one litre. For example, 0.75 L = 0.75 x 1,000 = 750 mL. Juice boxes and medicine doses are often measured in mL."
+  },
+  {
+    "id": 73,
+    "domain": "mathematics",
+    "front": "How many centimetres are in one inch?",
+    "back": "There are approximately 2.54 centimetres in one inch. To convert inches to centimetres, multiply by 2.54. For example, 10 inches = 10 x 2.54 = 25.4 cm."
+  },
+  {
+    "id": 74,
+    "domain": "mathematics",
+    "front": "How do you convert feet to metres?",
+    "back": "Multiply the number of feet by 0.3048 (approximately 0.30). For example, a room that is 12 feet long = 12 x 0.3048 = about 3.66 metres. To go from metres to feet, divide by 0.3048 or multiply by 3.28."
+  },
+  {
+    "id": 75,
+    "domain": "mathematics",
+    "front": "How many feet are in one yard?",
+    "back": "There are 3 feet in one yard. So to convert yards to feet, multiply by 3. For example, 5 yards = 5 x 3 = 15 feet. Yards are commonly used in fabric and sports fields."
+  },
+  {
+    "id": 76,
+    "domain": "mathematics",
+    "front": "How do you convert pounds to kilograms?",
+    "back": "Divide the number of pounds by 2.2 (approximately). For example, 110 pounds / 2.2 = 50 kg. To go from kg to pounds, multiply by 2.2. For example, 70 kg x 2.2 = 154 pounds."
+  },
+  {
+    "id": 77,
+    "domain": "mathematics",
+    "front": "How do you read a ruler that shows both centimetres and millimetres?",
+    "back": "Each centimetre is divided into 10 smaller marks; each small mark is 1 millimetre. If an object reaches 3 full centimetres and 7 small marks past that, its length is 37 mm or 3.7 cm."
+  },
+  {
+    "id": 78,
+    "domain": "mathematics",
+    "front": "How do you convert hours and minutes into just minutes?",
+    "back": "Multiply the number of hours by 60, then add the extra minutes. For example, 2 hours and 35 minutes = (2 x 60) + 35 = 120 + 35 = 155 minutes total."
+  },
+  {
+    "id": 79,
+    "domain": "mathematics",
+    "front": "How do you convert Celsius to Fahrenheit?",
+    "back": "Use the formula F = (C x 9/5) + 32. For example, 20\u00b0C = (20 x 1.8) + 32 = 36 + 32 = 68\u00b0F. A quick memory trick: 0\u00b0C is freezing (32\u00b0F) and 100\u00b0C is boiling (212\u00b0F)."
+  },
+  {
+    "id": 80,
+    "domain": "mathematics",
+    "front": "How do you read a scale or map if it says '1:50,000'?",
+    "back": "A scale of 1:50,000 means 1 unit on the map equals 50,000 of the same units in real life. So 1 cm on the map = 50,000 cm = 500 metres in reality. Multiply the map measurement by the scale number to get the real distance."
+  },
+  {
+    "id": 81,
+    "domain": "mathematics",
+    "front": "How many millilitres are in one cup?",
+    "back": "One cup is approximately 250 mL. This is a useful cooking conversion. Two cups = 500 mL = 0.5 litres. Four cups = 1,000 mL = 1 litre."
+  },
+  {
+    "id": 82,
+    "domain": "mathematics",
+    "front": "What is an equation?",
+    "back": "An equation is a math statement showing that two expressions are equal, using an equals sign (=). For example, 3x + 5 = 14 is an equation. Solving it means finding the value of x that makes both sides equal."
+  },
+  {
+    "id": 83,
+    "domain": "mathematics",
+    "front": "What does it mean to 'solve for x' in an equation?",
+    "back": "Solving for x means finding the number that x represents so that the equation is true. You do this by performing the same operations on both sides of the equals sign until x is alone. For example, x + 7 = 12 becomes x = 12 - 7 = 5."
+  },
+  {
+    "id": 84,
+    "domain": "mathematics",
+    "front": "How do you solve a two-step equation like 2x + 4 = 14?",
+    "back": "Step 1: Subtract 4 from both sides to get 2x = 10. Step 2: Divide both sides by 2 to get x = 5. Always undo addition/subtraction first, then undo multiplication/division."
+  },
+  {
+    "id": 85,
+    "domain": "mathematics",
+    "front": "What is the order of operations (BEDMAS)?",
+    "back": "BEDMAS stands for Brackets, Exponents, Division and Multiplication (left to right), Addition and Subtraction (left to right). Always solve in this order. For example, 3 + 2 x 4 = 3 + 8 = 11 (multiply before adding)."
+  },
+  {
+    "id": 86,
+    "domain": "mathematics",
+    "front": "What is a variable in algebra?",
+    "back": "A variable is a letter (like x, y, or n) used to represent an unknown number. For example, in the equation 5 + x = 9, the variable x stands for the missing number, which is 4."
+  },
+  {
+    "id": 87,
+    "domain": "mathematics",
+    "front": "What is a pattern in mathematics?",
+    "back": "A pattern is a sequence of numbers or shapes that follows a rule. For example, 2, 5, 8, 11, 14 follows the rule 'add 3 each time.' Identifying the rule lets you predict the next terms."
+  },
+  {
+    "id": 88,
+    "domain": "mathematics",
+    "front": "How do you find the rule for a number pattern?",
+    "back": "Look at the difference between each pair of consecutive numbers. If the difference is constant, that is your rule. For example, in 4, 9, 14, 19, the difference is always 5, so the rule is 'start at 4, add 5 each time.'"
+  },
+  {
+    "id": 89,
+    "domain": "mathematics",
+    "front": "What is a term in an algebraic expression?",
+    "back": "A term is a single part of an expression separated by addition or subtraction. For example, in 3x + 5, there are two terms: 3x and 5. In 4x - 2y + 7, there are three terms."
+  },
+  {
+    "id": 90,
+    "domain": "mathematics",
+    "front": "How do you evaluate an algebraic expression when given a value for the variable?",
+    "back": "Replace the variable with the given number, then calculate the result following BEDMAS. For example, if x = 3, then 2x + 7 = 2(3) + 7 = 6 + 7 = 13."
+  },
+  {
+    "id": 91,
+    "domain": "mathematics",
+    "front": "What is a coefficient in algebra?",
+    "back": "A coefficient is the number written directly in front of a variable that multiplies it. For example, in 5x, the coefficient is 5. In -3y, the coefficient is -3. If no number is written, the coefficient is understood to be 1."
+  },
+  {
+    "id": 92,
+    "domain": "mathematics",
+    "front": "How do you solve an equation with a variable on both sides, like 3x + 2 = x + 10?",
+    "back": "Move the variable terms to one side by subtracting x from both sides: 2x + 2 = 10. Then subtract 2 from both sides: 2x = 8. Then divide by 2: x = 4. Always check your answer by substituting back."
+  },
+  {
+    "id": 93,
+    "domain": "mathematics",
+    "front": "What is the formula for calculating distance?",
+    "back": "Distance = speed x time, or D = S x T. For example, travelling at 80 km/h for 3 hours covers 80 x 3 = 240 km. Rearrange to find speed (S = D/T) or time (T = D/S) when needed."
+  },
+  {
+    "id": 94,
+    "domain": "mathematics",
+    "front": "How do you write an equation from a word problem?",
+    "back": "Identify the unknown and call it x. Translate each part of the problem into math symbols. For example, 'a number increased by 8 equals 20' becomes x + 8 = 20, and solving gives x = 12."
+  },
+  {
+    "id": 95,
+    "domain": "mathematics",
+    "front": "What does it mean to 'substitute' a value into an expression?",
+    "back": "Substituting means replacing the variable letter with a specific number and then calculating. For example, substituting x = 4 into 3x - 1 gives 3(4) - 1 = 12 - 1 = 11."
+  },
+  {
+    "id": 96,
+    "domain": "mathematics",
+    "front": "What is the nth term rule used for?",
+    "back": "The nth term rule is a formula that lets you find any term in a pattern without listing all the terms. For example, if the nth term is 3n + 1, the 10th term = 3(10) + 1 = 31."
+  },
+  {
+    "id": 97,
+    "domain": "mathematics",
+    "front": "How do you solve an inequality like x + 3 > 7?",
+    "back": "Solve it the same way as an equation: subtract 3 from both sides to get x > 4. This means x can be any number greater than 4. Important: when you multiply or divide by a negative number, flip the inequality sign."
+  },
+  {
+    "id": 98,
+    "domain": "mathematics",
+    "front": "What is 'mean' in statistics?",
+    "back": "The mean is the average of a set of numbers. Add all the values together, then divide by how many values there are. For example, the mean of 4, 7, and 10 is (4 + 7 + 10) / 3 = 21 / 3 = 7."
+  },
+  {
+    "id": 99,
+    "domain": "mathematics",
+    "front": "What is 'median' in statistics?",
+    "back": "The median is the middle value when you arrange the numbers from smallest to largest. For example, in the set 3, 7, 9, 12, 15, the median is 9. If there are two middle numbers, average them."
+  },
+  {
+    "id": 100,
+    "domain": "mathematics",
+    "front": "What is 'mode' in statistics?",
+    "back": "The mode is the value that appears most often in a data set. For example, in 2, 4, 4, 6, 7, 4, the mode is 4 because it appears three times. A data set can have more than one mode, or no mode at all."
+  },
+  {
+    "id": 101,
+    "domain": "mathematics",
+    "front": "What is 'range' in statistics?",
+    "back": "Range is the difference between the largest and smallest values in a data set. It tells you how spread out the data is. For example, in 5, 8, 12, 3, 20, the range = 20 - 3 = 17."
+  },
+  {
+    "id": 102,
+    "domain": "mathematics",
+    "front": "How do you find the median when a data set has an even number of values?",
+    "back": "When there is no single middle value, find the two middle values, add them together, and divide by 2. For example, in 4, 7, 10, 15, the two middle values are 7 and 10; median = (7 + 10) / 2 = 8.5."
+  },
+  {
+    "id": 103,
+    "domain": "mathematics",
+    "front": "How do you read a bar graph?",
+    "back": "Find the bar you want, then read across to the vertical axis (the number scale) to see the value for that bar. Make sure to note what each axis label says and what the scale unit is (for example, hundreds of people, or dollars)."
+  },
+  {
+    "id": 104,
+    "domain": "mathematics",
+    "front": "How do you read a line graph?",
+    "back": "Find the point on the line that corresponds to the value on the horizontal axis you want, then read across to the vertical axis. Line graphs are used to show change over time; a rising line means increasing, a falling line means decreasing."
+  },
+  {
+    "id": 105,
+    "domain": "mathematics",
+    "front": "What does a circle graph (pie chart) show?",
+    "back": "A pie chart shows how a whole is divided into parts, with each slice representing a percentage or fraction of the total. All the slices must add up to 100%. The larger the slice, the bigger the share of the total."
+  },
+  {
+    "id": 106,
+    "domain": "mathematics",
+    "front": "What is probability?",
+    "back": "Probability is the chance that an event will happen, expressed as a fraction, decimal, or percent between 0 and 1. A probability of 0 means impossible, and a probability of 1 means certain. For example, flipping heads on a fair coin has probability 1/2 = 0.5 = 50%."
+  },
+  {
+    "id": 107,
+    "domain": "mathematics",
+    "front": "What is the formula for probability of an event?",
+    "back": "Probability = number of favourable outcomes / total number of possible outcomes. For example, the probability of rolling a 3 on a standard die = 1/6, because there is 1 three and 6 possible results."
+  },
+  {
+    "id": 108,
+    "domain": "mathematics",
+    "front": "What does it mean if an event has a probability of 1/2?",
+    "back": "A probability of 1/2 means the event is equally likely to happen or not happen. It represents a 50% chance. For example, flipping a fair coin has a 1/2 probability of landing on heads."
+  },
+  {
+    "id": 109,
+    "domain": "mathematics",
+    "front": "How do you calculate the probability of two independent events both happening?",
+    "back": "Multiply the probability of each event together. For example, the probability of flipping heads twice in a row = 1/2 x 1/2 = 1/4. Each flip does not affect the other, so they are independent."
+  },
+  {
+    "id": 110,
+    "domain": "mathematics",
+    "front": "What is a frequency table?",
+    "back": "A frequency table lists each possible value or category and shows how many times it appears in the data (its frequency). For example, a table might show that 5 students got an A, 12 got a B, and 8 got a C on a test."
+  },
+  {
+    "id": 111,
+    "domain": "mathematics",
+    "front": "How do you find the total from a frequency table?",
+    "back": "Add up all the frequency values in the table. For example, if 5 students chose red, 8 chose blue, and 7 chose green, the total = 5 + 8 + 7 = 20 students."
+  },
+  {
+    "id": 112,
+    "domain": "mathematics",
+    "front": "What is the difference between a histogram and a bar graph?",
+    "back": "Both use bars to show data, but a histogram shows the distribution of continuous numerical data (like heights or ages grouped in ranges), while a bar graph compares separate categories. In a histogram, bars are usually touching; in a bar graph, bars have spaces."
+  },
+  {
+    "id": 113,
+    "domain": "mathematics",
+    "front": "How do you calculate a percentage from a frequency table?",
+    "back": "Divide the frequency of one category by the total frequency, then multiply by 100. For example, if 8 out of 20 students chose blue, the percentage = (8/20) x 100 = 40%."
+  },
+  {
+    "id": 114,
+    "domain": "mathematics",
+    "front": "What does a scatter plot show?",
+    "back": "A scatter plot uses dots to show the relationship between two sets of data. If the dots go up from left to right, the two things are positively related. If they go down, they are negatively related. If there is no pattern, there is no clear relationship."
+  },
+  {
+    "id": 115,
+    "domain": "mathematics",
+    "front": "What is an outlier in a data set?",
+    "back": "An outlier is a value that is much higher or lower than the rest of the data. For example, in the set 10, 12, 11, 13, 45, the value 45 is an outlier. Outliers can have a big effect on the mean but little effect on the median."
+  },
+  {
+    "id": 116,
+    "domain": "mathematics",
+    "front": "How do you find the mean of a grouped set of data from a frequency table?",
+    "back": "Multiply each value by its frequency, add all those products together, then divide by the total number of data points. For example, if 3 people scored 10 and 7 people scored 20: mean = (3x10 + 7x20) / 10 = (30 + 140) / 10 = 17."
+  },
+  {
+    "id": 117,
+    "domain": "mathematics",
+    "front": "What is experimental probability?",
+    "back": "Experimental probability is based on what actually happened in trials or experiments. It equals the number of times an event occurred divided by the total number of trials. For example, if a coin landed on heads 43 times in 100 flips, the experimental probability = 43/100 = 43%."
+  },
+  {
+    "id": 118,
+    "domain": "mathematics",
+    "front": "What does it mean when two events are mutually exclusive?",
+    "back": "Two events are mutually exclusive if they cannot both happen at the same time. For example, when rolling a die, getting a 2 and getting a 5 on the same roll are mutually exclusive. The probability that either happens = add their individual probabilities."
+  },
+  {
+    "id": 119,
+    "domain": "mathematics",
+    "front": "How do you find what percent one number is of another?",
+    "back": "Divide the part by the whole, then multiply by 100. For example, to find what percent 18 is of 72: (18 / 72) x 100 = 0.25 x 100 = 25%. So 18 is 25% of 72."
+  },
+  {
+    "id": 120,
+    "domain": "mathematics",
+    "front": "How do you find the original price before a percent increase?",
+    "back": "Divide the final price by (1 + the increase rate as a decimal). For example, if a price after a 20% increase is $60, the original price = $60 / 1.20 = $50. This works because the final price equals 120% of the original."
+  },
+  {
+    "id": 121,
+    "domain": "mathematics",
+    "front": "What is the difference between 'less than' and 'fewer than'?",
+    "back": "In everyday math, 'less than' is used for numbers and quantities you can measure (like less than 5 kg), while 'fewer than' is used for things you can count individually (like fewer than 10 people). In math problems, both mean the same: the value is smaller."
+  },
+  {
+    "id": 122,
+    "domain": "mathematics",
+    "front": "What is a square root and how is it written?",
+    "back": "A square root of a number is the value that, when multiplied by itself, gives that number. It is written with the radical symbol. For example, the square root of 25 = 5, because 5 x 5 = 25."
+  },
+  {
+    "id": 123,
+    "domain": "mathematics",
+    "front": "What is an exponent and how do you read 4 to the power of 3?",
+    "back": "An exponent tells you how many times to multiply a number by itself. 4 to the power of 3 is written as 4\u00b3 and equals 4 x 4 x 4 = 64. The small raised number (3) is the exponent, and 4 is the base."
+  },
+  {
+    "id": 124,
+    "domain": "mathematics",
+    "front": "How do you check your answer after solving an equation?",
+    "back": "Substitute your answer back into the original equation and see if both sides are equal. For example, if you solved x + 6 = 11 and got x = 5, check: 5 + 6 = 11. Since that is true, the answer is correct."
+  },
+  {
+    "id": 125,
+    "domain": "mathematics",
+    "front": "What is the difference between perimeter and area?",
+    "back": "Perimeter is the distance around the outside edge of a shape and is measured in regular units (cm, m). Area is the amount of flat space inside the shape and is measured in square units (cm\u00b2, m\u00b2). For example, a 4m x 3m rectangle has perimeter 14m and area 12m\u00b2."
+  },
+  {
+    "id": 126,
+    "domain": "reading",
+    "front": "What is the main idea of a passage?",
+    "back": "The main idea is the most important point the author is making about a topic. It is the central message that the whole passage supports."
+  },
+  {
+    "id": 127,
+    "domain": "reading",
+    "front": "What are supporting details in a text?",
+    "back": "Supporting details are facts, examples, or reasons that back up the main idea. They give the reader evidence or explanation to understand and believe the main point."
+  },
+  {
+    "id": 128,
+    "domain": "reading",
+    "front": "What does 'author's purpose' mean?",
+    "back": "Author's purpose is the reason a writer creates a text. Common purposes are to inform, to persuade, or to entertain."
+  },
+  {
+    "id": 129,
+    "domain": "reading",
+    "front": "What does it mean to make an inference?",
+    "back": "An inference is a conclusion you reach using clues in the text plus your own knowledge. You are reading between the lines when you infer something the author did not state directly."
+  },
+  {
+    "id": 130,
+    "domain": "reading",
+    "front": "What is 'vocabulary in context'?",
+    "back": "Vocabulary in context means figuring out the meaning of an unfamiliar word by reading the sentences around it. The surrounding words and ideas give you clues about what the word means."
+  },
+  {
+    "id": 131,
+    "domain": "reading",
+    "front": "What is a metaphor?",
+    "back": "A metaphor is a figure of speech that directly compares two unlike things without using 'like' or 'as'. For example, 'The classroom was a zoo' means the room was very chaotic."
+  },
+  {
+    "id": 132,
+    "domain": "reading",
+    "front": "What is a simile?",
+    "back": "A simile compares two unlike things using the words 'like' or 'as'. For example, 'She was as brave as a lion' uses 'as' to show comparison."
+  },
+  {
+    "id": 133,
+    "domain": "reading",
+    "front": "What is personification in writing?",
+    "back": "Personification gives human qualities to non-human things such as objects, animals, or ideas. For example, 'The wind whispered through the trees' gives the wind a human ability."
+  },
+  {
+    "id": 134,
+    "domain": "reading",
+    "front": "What is alliteration?",
+    "back": "Alliteration is the repetition of the same beginning consonant sound in words close together. For example, 'Peter picked a peck of pickled peppers' repeats the 'p' sound."
+  },
+  {
+    "id": 135,
+    "domain": "reading",
+    "front": "What is hyperbole?",
+    "back": "Hyperbole is a great exaggeration used to make a point or add emphasis. For example, 'I have told you a million times' does not mean literally one million times."
+  },
+  {
+    "id": 136,
+    "domain": "reading",
+    "front": "What is the tone of a text?",
+    "back": "Tone is the author's attitude toward the subject or the reader, shown through word choice. For example, a text can have a serious, humorous, or angry tone."
+  },
+  {
+    "id": 137,
+    "domain": "reading",
+    "front": "What is the mood of a text?",
+    "back": "Mood is the feeling a reader gets while reading a text. A story set in a dark, stormy night creates a tense or scary mood."
+  },
+  {
+    "id": 138,
+    "domain": "reading",
+    "front": "What is the difference between tone and mood?",
+    "back": "Tone is the author's attitude, while mood is the reader's emotional response. The author's word choices create the tone, and the tone influences the mood the reader feels."
+  },
+  {
+    "id": 139,
+    "domain": "reading",
+    "front": "What is point of view in a story?",
+    "back": "Point of view is the perspective from which a story is told. First-person uses 'I', third-person limited follows one character's thoughts, and third-person omniscient knows all characters' thoughts."
+  },
+  {
+    "id": 140,
+    "domain": "reading",
+    "front": "What is a fact in a text?",
+    "back": "A fact is a statement that can be proven true or false with evidence. For example, 'Canada became a country in 1867' is a fact that can be checked."
+  },
+  {
+    "id": 141,
+    "domain": "reading",
+    "front": "What is an opinion in a text?",
+    "back": "An opinion is a personal belief or judgment that cannot be proven. For example, 'Hockey is the best sport' is an opinion because people can reasonably disagree."
+  },
+  {
+    "id": 142,
+    "domain": "reading",
+    "front": "How do you tell a fact from an opinion?",
+    "back": "Facts can be verified with research or evidence, while opinions express feelings or judgments. Words like 'I believe', 'should', or 'best' often signal opinions."
+  },
+  {
+    "id": 143,
+    "domain": "reading",
+    "front": "What is compare and contrast text structure?",
+    "back": "Compare and contrast text structure shows how two or more things are similar and different. Signal words include 'both', 'however', 'on the other hand', and 'similarly'."
+  },
+  {
+    "id": 144,
+    "domain": "reading",
+    "front": "What is cause and effect text structure?",
+    "back": "Cause and effect text structure explains why something happened and what resulted from it. Signal words include 'because', 'therefore', 'as a result', and 'consequently'."
+  },
+  {
+    "id": 145,
+    "domain": "reading",
+    "front": "What is chronological text structure?",
+    "back": "Chronological text structure presents events in time order from first to last. Signal words include 'first', 'next', 'then', 'after', and 'finally'."
+  },
+  {
+    "id": 146,
+    "domain": "reading",
+    "front": "What is problem and solution text structure?",
+    "back": "Problem and solution text structure describes a problem and then explains how it was or can be solved. Signal words include 'problem', 'solution', 'resolve', and 'as a result'."
+  },
+  {
+    "id": 147,
+    "domain": "reading",
+    "front": "How do signal words help you identify text structure?",
+    "back": "Signal words are clues that show how ideas in a text are connected. For example, 'because' signals cause and effect, while 'first' and 'then' signal chronological order."
+  },
+  {
+    "id": 148,
+    "domain": "reading",
+    "front": "What does it mean to draw a conclusion from a text?",
+    "back": "Drawing a conclusion means using evidence from the text to form a judgment not directly stated. You combine what the author says with what you already know to arrive at a logical conclusion."
+  },
+  {
+    "id": 149,
+    "domain": "reading",
+    "front": "What is the difference between a topic and a main idea?",
+    "back": "The topic is what a passage is about in one or two words, like 'recycling'. The main idea is the complete thought the author makes about that topic, like 'Recycling helps protect the environment'."
+  },
+  {
+    "id": 150,
+    "domain": "reading",
+    "front": "What is a theme in a story?",
+    "back": "A theme is the central message or life lesson a story teaches. Unlike the main idea of a non-fiction text, a theme is usually not stated directly and must be inferred."
+  },
+  {
+    "id": 151,
+    "domain": "reading",
+    "front": "What is the difference between explicit and implicit information?",
+    "back": "Explicit information is stated directly in the text. Implicit information is suggested but not stated, meaning the reader must infer it from clues."
+  },
+  {
+    "id": 152,
+    "domain": "reading",
+    "front": "What does 'context clue' mean?",
+    "back": "A context clue is a word, phrase, or sentence near an unfamiliar word that hints at its meaning. For example, in 'She was famished, so she ate three plates of food', 'famished' means very hungry."
+  },
+  {
+    "id": 153,
+    "domain": "reading",
+    "front": "What is a synonym context clue?",
+    "back": "A synonym context clue provides a word with a similar meaning near the unknown word. For example, 'The path was narrow, or small' shows that 'narrow' means small."
+  },
+  {
+    "id": 154,
+    "domain": "reading",
+    "front": "What is an antonym context clue?",
+    "back": "An antonym context clue gives a word with the opposite meaning, often with words like 'but' or 'unlike'. For example, 'He was courageous, unlike his timid brother' shows 'timid' means not brave."
+  },
+  {
+    "id": 155,
+    "domain": "reading",
+    "front": "How do you identify an author's purpose in a persuasive text?",
+    "back": "A persuasive text tries to change your mind or get you to take action. Look for one-sided arguments, emotional language, and calls to action as clues that the purpose is to persuade."
+  },
+  {
+    "id": 156,
+    "domain": "reading",
+    "front": "How do you identify an author's purpose in an informational text?",
+    "back": "An informational text presents facts and explains a topic without trying to change your opinion. Look for neutral language, definitions, and organized facts as signs the purpose is to inform."
+  },
+  {
+    "id": 157,
+    "domain": "reading",
+    "front": "What is a paragraph's topic sentence?",
+    "back": "A topic sentence states the main idea of a single paragraph. It is often the first sentence and tells the reader what the rest of the paragraph will be about."
+  },
+  {
+    "id": 158,
+    "domain": "reading",
+    "front": "What does 'text evidence' mean?",
+    "back": "Text evidence is a direct quote or specific detail from a passage used to support an answer or claim. When you cite text evidence, you show where in the text your answer comes from."
+  },
+  {
+    "id": 159,
+    "domain": "reading",
+    "front": "What is figurative language?",
+    "back": "Figurative language uses words in a non-literal way to create vivid images or meaning. Examples include similes, metaphors, personification, and hyperbole."
+  },
+  {
+    "id": 160,
+    "domain": "reading",
+    "front": "What is the difference between literal and figurative meaning?",
+    "back": "Literal meaning is the exact, dictionary definition of words. Figurative meaning goes beyond the exact words to suggest a deeper or imaginative meaning."
+  },
+  {
+    "id": 161,
+    "domain": "reading",
+    "front": "What is an idiom?",
+    "back": "An idiom is a phrase whose meaning is different from the literal words used. For example, 'It is raining cats and dogs' means it is raining very heavily, not that animals are falling."
+  },
+  {
+    "id": 162,
+    "domain": "reading",
+    "front": "What is first-person point of view?",
+    "back": "First-person point of view is when the narrator is a character in the story and uses 'I', 'me', or 'we'. This lets readers experience events through that character's eyes."
+  },
+  {
+    "id": 163,
+    "domain": "reading",
+    "front": "What is third-person point of view?",
+    "back": "Third-person point of view uses 'he', 'she', 'they', and 'it' to describe characters. The narrator stands outside the story and describes what characters say and do."
+  },
+  {
+    "id": 164,
+    "domain": "reading",
+    "front": "What is a summary of a text?",
+    "back": "A summary is a brief retelling of the most important ideas in a text using your own words. A good summary leaves out minor details and focuses on the main point."
+  },
+  {
+    "id": 165,
+    "domain": "reading",
+    "front": "What is the purpose of a heading in a non-fiction text?",
+    "back": "A heading tells the reader what a section is about before they read it. Headings help organize information and make it easier to locate specific topics."
+  },
+  {
+    "id": 166,
+    "domain": "reading",
+    "front": "What is the purpose of a table of contents?",
+    "back": "A table of contents lists the chapters or sections of a book and their page numbers. It helps readers find topics quickly without flipping through every page."
+  },
+  {
+    "id": 167,
+    "domain": "reading",
+    "front": "What is an author's bias?",
+    "back": "Bias is when an author favors one side of an issue and does not present a balanced view. A biased text may leave out facts that disagree with the author's position."
+  },
+  {
+    "id": 168,
+    "domain": "reading",
+    "front": "What does 'denotation' of a word mean?",
+    "back": "Denotation is the dictionary definition of a word, its literal meaning. For example, the denotation of 'home' is simply a place where someone lives."
+  },
+  {
+    "id": 169,
+    "domain": "reading",
+    "front": "What does 'connotation' of a word mean?",
+    "back": "Connotation is the emotional or cultural feeling attached to a word beyond its dictionary meaning. For example, 'home' has a warm, safe connotation beyond just a building."
+  },
+  {
+    "id": 170,
+    "domain": "reading",
+    "front": "How does word choice affect the tone of a text?",
+    "back": "The words an author chooses can make a text sound happy, angry, sad, or formal. Choosing 'courageous' instead of 'stubborn' for the same action creates a more positive tone."
+  },
+  {
+    "id": 171,
+    "domain": "reading",
+    "front": "What is a graphic feature in a non-fiction text?",
+    "back": "Graphic features include charts, diagrams, maps, and photographs that add information to a text. They help readers visualize data or understand complex ideas more easily."
+  },
+  {
+    "id": 172,
+    "domain": "reading",
+    "front": "What is foreshadowing in a story?",
+    "back": "Foreshadowing is when an author gives hints about what will happen later in the story. It builds suspense and prepares the reader for upcoming events."
+  },
+  {
+    "id": 173,
+    "domain": "reading",
+    "front": "What is a narrator in a story?",
+    "back": "The narrator is the voice that tells the story to the reader. The narrator can be a character inside the story or an outside voice describing events."
+  },
+  {
+    "id": 174,
+    "domain": "reading",
+    "front": "What does 'sequence of events' mean in a text?",
+    "back": "Sequence of events is the order in which things happen in a story or passage. Understanding the sequence helps you follow cause and effect and understand how events relate."
+  },
+  {
+    "id": 175,
+    "domain": "reading",
+    "front": "What is a valid inference versus an invalid inference?",
+    "back": "A valid inference is supported by clues in the text, while an invalid inference goes beyond what the text suggests. Always check that your inference connects directly to evidence in the passage."
+  },
+  {
+    "id": 176,
+    "domain": "reading",
+    "front": "What does 'author's perspective' mean?",
+    "back": "Author's perspective is the author's own viewpoint or attitude toward the topic they are writing about. It can be shaped by their experiences, values, and beliefs."
+  },
+  {
+    "id": 177,
+    "domain": "reading",
+    "front": "What is a primary source document?",
+    "back": "A primary source is an original document or firsthand account, such as a letter, diary, or photograph. It comes directly from the time or event being studied."
+  },
+  {
+    "id": 178,
+    "domain": "reading",
+    "front": "What is a secondary source document?",
+    "back": "A secondary source is a document that describes or analyzes primary sources. A textbook chapter about World War II is a secondary source because it was written after the events."
+  },
+  {
+    "id": 179,
+    "domain": "reading",
+    "front": "What is a rhetorical question in a text?",
+    "back": "A rhetorical question is asked for effect, not because the author expects an answer. For example, 'Who would not want clean air to breathe?' is meant to make the reader agree."
+  },
+  {
+    "id": 180,
+    "domain": "reading",
+    "front": "What does 'scanning' a text mean?",
+    "back": "Scanning means moving your eyes quickly over a text to find a specific word, date, or piece of information. You do not read every word; you search for what you need."
+  },
+  {
+    "id": 181,
+    "domain": "reading",
+    "front": "What does 'skimming' a text mean?",
+    "back": "Skimming means reading quickly to get the general idea of a text without reading every word. You might read headings, the first sentence of each paragraph, and the conclusion."
+  },
+  {
+    "id": 182,
+    "domain": "reading",
+    "front": "What is a conflict in a story?",
+    "back": "Conflict is the main problem or struggle in a story. It can be between characters, between a character and nature, or inside a character's own mind."
+  },
+  {
+    "id": 183,
+    "domain": "reading",
+    "front": "What is a resolution in a story?",
+    "back": "The resolution is how the main conflict is solved near the end of the story. It brings the events to a close and often shows how characters have changed."
+  },
+  {
+    "id": 184,
+    "domain": "reading",
+    "front": "What does 'synthesize information' from multiple texts mean?",
+    "back": "Synthesizing means combining ideas from two or more texts to form a new understanding. You look for what the texts agree on, disagree on, and what new ideas emerge together."
+  },
+  {
+    "id": 185,
+    "domain": "reading",
+    "front": "What is an analogy in a text?",
+    "back": "An analogy compares two situations to show that they are similar in an important way. For example, 'A book is to a reader as food is to a hungry person' explains how books nourish the mind."
+  },
+  {
+    "id": 186,
+    "domain": "reading",
+    "front": "What is onomatopoeia?",
+    "back": "Onomatopoeia is a word that sounds like the thing it describes. Words like 'buzz', 'crash', and 'sizzle' are examples of onomatopoeia."
+  },
+  {
+    "id": 187,
+    "domain": "reading",
+    "front": "What is imagery in a text?",
+    "back": "Imagery is descriptive language that appeals to the senses of sight, sound, smell, taste, or touch. It helps readers picture and experience what the author is describing."
+  },
+  {
+    "id": 188,
+    "domain": "reading",
+    "front": "What is a character's motivation in a story?",
+    "back": "A character's motivation is the reason behind their actions and decisions. Understanding motivation helps you predict what a character might do next."
+  },
+  {
+    "id": 189,
+    "domain": "reading",
+    "front": "What is the setting of a story?",
+    "back": "The setting is the time and place in which a story takes place. The setting can affect the mood, the characters' choices, and the events of the plot."
+  },
+  {
+    "id": 190,
+    "domain": "reading",
+    "front": "How does the setting influence a story's mood?",
+    "back": "A gloomy, rainy setting often creates a sad or tense mood, while a bright, sunny setting can feel cheerful. Authors choose settings carefully to match the emotional tone they want."
+  },
+  {
+    "id": 191,
+    "domain": "reading",
+    "front": "What is a glossary in a non-fiction book?",
+    "back": "A glossary is an alphabetical list of key terms and their definitions found at the back of a book. It helps readers understand specialized vocabulary used in the text."
+  },
+  {
+    "id": 192,
+    "domain": "reading",
+    "front": "What does 'paraphrase' mean?",
+    "back": "To paraphrase means to restate someone else's ideas in your own words without changing the meaning. It is different from quoting because you do not use the exact original words."
+  },
+  {
+    "id": 193,
+    "domain": "reading",
+    "front": "What is the plot of a story?",
+    "back": "The plot is the sequence of events that make up the story from beginning to end. Most plots include an introduction, rising action, climax, falling action, and resolution."
+  },
+  {
+    "id": 194,
+    "domain": "reading",
+    "front": "What is the climax of a story?",
+    "back": "The climax is the turning point or most exciting moment in the story. It is the peak of the conflict, after which the outcome becomes clear."
+  },
+  {
+    "id": 195,
+    "domain": "reading",
+    "front": "What is an author's argument in a persuasive text?",
+    "back": "An author's argument is the main claim they are trying to prove, supported by reasons and evidence. Identifying the argument helps you evaluate whether the evidence actually supports it."
+  },
+  {
+    "id": 196,
+    "domain": "reading",
+    "front": "What is a counterargument?",
+    "back": "A counterargument is the opposing view to the author's main argument. Strong persuasive writing often acknowledges counterarguments and then explains why they are wrong or less important."
+  },
+  {
+    "id": 197,
+    "domain": "reading",
+    "front": "What is a symbol in literature?",
+    "back": "A symbol is an object, person, or place that represents a larger idea or concept. For example, a dove often symbolizes peace."
+  },
+  {
+    "id": 198,
+    "domain": "reading",
+    "front": "What does 'reading between the lines' mean?",
+    "back": "Reading between the lines means understanding ideas that the author suggests but does not state directly. It requires you to use clues in the text to make inferences."
+  },
+  {
+    "id": 199,
+    "domain": "reading",
+    "front": "What is a genre of writing?",
+    "back": "Genre is a category of writing based on style, content, and form. Common genres include fiction, non-fiction, poetry, and drama."
+  },
+  {
+    "id": 200,
+    "domain": "reading",
+    "front": "What is the difference between fiction and non-fiction?",
+    "back": "Fiction is made-up stories created by the author's imagination. Non-fiction is based on real people, events, and facts."
+  },
+  {
+    "id": 201,
+    "domain": "reading",
+    "front": "What is subject-verb agreement?",
+    "back": "Subject-verb agreement means the verb must match the subject in number. A singular subject uses a singular verb: 'She runs', while a plural subject uses a plural verb: 'They run'."
+  },
+  {
+    "id": 202,
+    "domain": "reading",
+    "front": "What is pronoun-antecedent agreement?",
+    "back": "Pronoun-antecedent agreement means a pronoun must match the noun it replaces in number and gender. For example, 'Maria forgot her book' is correct because 'her' matches 'Maria'."
+  },
+  {
+    "id": 203,
+    "domain": "reading",
+    "front": "What is the difference between an adjective and an adverb?",
+    "back": "An adjective describes a noun, while an adverb describes a verb, adjective, or another adverb. 'She is a quick runner' uses the adjective 'quick', while 'She runs quickly' uses the adverb 'quickly'."
+  },
+  {
+    "id": 204,
+    "domain": "reading",
+    "front": "What is a noun?",
+    "back": "A noun is a word that names a person, place, thing, or idea. Examples include 'teacher', 'city', 'book', and 'freedom'."
+  },
+  {
+    "id": 205,
+    "domain": "reading",
+    "front": "What is a verb?",
+    "back": "A verb is a word that shows an action or a state of being. Examples of action verbs are 'run' and 'write', while 'is' and 'seems' are state-of-being verbs."
+  },
+  {
+    "id": 206,
+    "domain": "reading",
+    "front": "What is an adjective?",
+    "back": "An adjective describes or modifies a noun, telling what kind, how many, or which one. In the phrase 'three red apples', both 'three' and 'red' are adjectives."
+  },
+  {
+    "id": 207,
+    "domain": "reading",
+    "front": "What is an adverb?",
+    "back": "An adverb modifies a verb, adjective, or another adverb, often telling how, when, where, or to what extent. In 'She spoke softly', the word 'softly' is an adverb."
+  },
+  {
+    "id": 208,
+    "domain": "reading",
+    "front": "What is a conjunction?",
+    "back": "A conjunction is a word that joins words, phrases, or clauses together. Common conjunctions are 'and', 'but', 'or', 'so', and 'because'."
+  },
+  {
+    "id": 209,
+    "domain": "reading",
+    "front": "What is a preposition?",
+    "back": "A preposition shows the relationship between a noun and other words in a sentence. Common prepositions include 'in', 'on', 'under', 'between', and 'through'."
+  },
+  {
+    "id": 210,
+    "domain": "reading",
+    "front": "What is a run-on sentence?",
+    "back": "A run-on sentence joins two complete thoughts without proper punctuation or a connecting word. For example, 'I was tired I went to bed' is a run-on that needs a period or conjunction."
+  },
+  {
+    "id": 211,
+    "domain": "reading",
+    "front": "How do you fix a run-on sentence?",
+    "back": "You can fix a run-on by adding a period to create two sentences, using a semicolon, or adding a conjunction. For example: 'I was tired, so I went to bed'."
+  },
+  {
+    "id": 212,
+    "domain": "reading",
+    "front": "What is a sentence fragment?",
+    "back": "A sentence fragment is an incomplete sentence that is missing a subject, a verb, or a complete thought. For example, 'Running down the street' is a fragment because it has no subject."
+  },
+  {
+    "id": 213,
+    "domain": "reading",
+    "front": "How do you fix a sentence fragment?",
+    "back": "Fix a fragment by adding whatever is missing, such as a subject or a verb. For example, 'Running down the street' becomes 'She was running down the street'."
+  },
+  {
+    "id": 214,
+    "domain": "reading",
+    "front": "What is parallel structure in a sentence?",
+    "back": "Parallel structure means using the same grammatical form for items in a list or comparison. For example, 'She likes reading, writing, and running' is parallel because all items use the '-ing' form."
+  },
+  {
+    "id": 215,
+    "domain": "reading",
+    "front": "What is a comma used for in a list?",
+    "back": "Commas separate items in a list of three or more things. For example, 'I bought apples, oranges, and bananas' uses commas to separate each item."
+  },
+  {
+    "id": 216,
+    "domain": "reading",
+    "front": "When do you use a comma before a conjunction?",
+    "back": "Use a comma before a coordinating conjunction like 'and', 'but', or 'so' when it joins two complete sentences. For example, 'I wanted to go, but it was raining'."
+  },
+  {
+    "id": 217,
+    "domain": "reading",
+    "front": "What is a comma splice?",
+    "back": "A comma splice is the incorrect use of a comma to join two complete sentences without a conjunction. For example, 'I was late, I missed the bus' is a comma splice."
+  },
+  {
+    "id": 218,
+    "domain": "reading",
+    "front": "When do you use an apostrophe to show possession?",
+    "back": "Add an apostrophe and 's' after a singular noun to show ownership. For example, 'the teacher's book' means the book belongs to the teacher."
+  },
+  {
+    "id": 219,
+    "domain": "reading",
+    "front": "What is the difference between 'its' and 'it's'?",
+    "back": "'It's' is a contraction meaning 'it is', while 'its' shows possession. For example, 'It's raining' and 'The dog wagged its tail' use these words correctly."
+  },
+  {
+    "id": 220,
+    "domain": "reading",
+    "front": "What is a contraction?",
+    "back": "A contraction is a shortened word formed by combining two words with an apostrophe. For example, 'do not' becomes 'don't' and 'I am' becomes 'I'm'."
+  },
+  {
+    "id": 221,
+    "domain": "reading",
+    "front": "When do you use a semicolon?",
+    "back": "A semicolon joins two closely related complete sentences without a conjunction. For example, 'I studied hard; I passed the exam' uses a semicolon correctly."
+  },
+  {
+    "id": 222,
+    "domain": "reading",
+    "front": "What words should always be capitalized?",
+    "back": "Always capitalize the first word of a sentence, proper nouns (names of specific people, places, and things), and the pronoun 'I'. For example, 'Maria lives in Toronto, and I visited her last July'."
+  },
+  {
+    "id": 223,
+    "domain": "reading",
+    "front": "What is a proper noun?",
+    "back": "A proper noun is the specific name of a person, place, organization, or event, and it is always capitalized. For example, 'Canada', 'Tuesday', and 'Maria' are proper nouns."
+  },
+  {
+    "id": 224,
+    "domain": "reading",
+    "front": "What is a common noun?",
+    "back": "A common noun names a general type of person, place, or thing and is not capitalized unless it starts a sentence. For example, 'city', 'teacher', and 'book' are common nouns."
+  },
+  {
+    "id": 225,
+    "domain": "reading",
+    "front": "What is a thesis statement?",
+    "back": "A thesis statement is one or two sentences at the end of the introduction that state the main argument of an essay. Everything else in the essay should support the thesis."
+  },
+  {
+    "id": 226,
+    "domain": "reading",
+    "front": "What is the purpose of an essay's introduction?",
+    "back": "The introduction grabs the reader's attention, provides background on the topic, and presents the thesis statement. It tells the reader what the essay will argue or explain."
+  },
+  {
+    "id": 227,
+    "domain": "reading",
+    "front": "What is the purpose of body paragraphs in an essay?",
+    "back": "Body paragraphs each present one main point that supports the thesis, along with evidence and explanation. A well-written body paragraph has a topic sentence, supporting details, and a closing thought."
+  },
+  {
+    "id": 228,
+    "domain": "reading",
+    "front": "What is the purpose of a conclusion in an essay?",
+    "back": "The conclusion wraps up the essay by restating the thesis in new words and summarizing the main points. It gives the reader a sense of completion and may suggest a next step or final thought."
+  },
+  {
+    "id": 229,
+    "domain": "reading",
+    "front": "What is expository writing?",
+    "back": "Expository writing explains or informs the reader about a topic using facts and clear organization. It does not try to persuade and does not tell a personal story."
+  },
+  {
+    "id": 230,
+    "domain": "reading",
+    "front": "What is persuasive writing?",
+    "back": "Persuasive writing tries to convince the reader to agree with a position or take an action. It uses reasons, evidence, and sometimes emotional appeals."
+  },
+  {
+    "id": 231,
+    "domain": "reading",
+    "front": "What is narrative writing?",
+    "back": "Narrative writing tells a story, whether real or fictional. It includes characters, a setting, a conflict, and events arranged in sequence."
+  },
+  {
+    "id": 232,
+    "domain": "reading",
+    "front": "What is descriptive writing?",
+    "back": "Descriptive writing creates a vivid picture of a person, place, object, or event using sensory details. The goal is to help readers see, hear, smell, taste, or feel what is being described."
+  },
+  {
+    "id": 233,
+    "domain": "reading",
+    "front": "What are the steps of the writing process?",
+    "back": "The writing process has five steps: brainstorm, draft, revise, edit, and publish. Following these steps helps produce a clear, organized, and polished piece of writing."
+  },
+  {
+    "id": 234,
+    "domain": "reading",
+    "front": "What happens during the brainstorming step?",
+    "back": "During brainstorming, you generate and collect ideas before you begin writing. You might make a list, a web diagram, or write down everything you know about the topic."
+  },
+  {
+    "id": 235,
+    "domain": "reading",
+    "front": "What happens during the drafting step?",
+    "back": "During drafting, you write out your ideas in full sentences and paragraphs without worrying about perfection. The goal is to get your thoughts down on paper."
+  },
+  {
+    "id": 236,
+    "domain": "reading",
+    "front": "What happens during the revising step?",
+    "back": "During revising, you improve the content, organization, and clarity of your writing. You might add more detail, rearrange paragraphs, or remove ideas that do not fit."
+  },
+  {
+    "id": 237,
+    "domain": "reading",
+    "front": "What happens during the proofreading step?",
+    "back": "During proofreading, you check for and correct errors in spelling, punctuation, capitalization, and grammar. Proofreading is done after revising, when the ideas are already solid."
+  },
+  {
+    "id": 238,
+    "domain": "reading",
+    "front": "What is the difference between revising and proofreading?",
+    "back": "Revising focuses on improving ideas, organization, and clarity. Proofreading focuses on fixing mechanical errors like spelling, punctuation, and grammar."
+  },
+  {
+    "id": 239,
+    "domain": "reading",
+    "front": "What is a coordinating conjunction?",
+    "back": "A coordinating conjunction connects two words, phrases, or complete sentences of equal importance. The seven coordinating conjunctions are: for, and, nor, but, or, yet, so (FANBOYS)."
+  },
+  {
+    "id": 240,
+    "domain": "reading",
+    "front": "What is a subordinating conjunction?",
+    "back": "A subordinating conjunction connects a dependent clause to a main clause. Examples include 'because', 'although', 'when', 'if', and 'since'."
+  },
+  {
+    "id": 241,
+    "domain": "reading",
+    "front": "What is a dependent clause?",
+    "back": "A dependent clause has a subject and a verb but cannot stand alone as a complete sentence. For example, 'Because I was tired' is dependent and needs a main clause to complete the thought."
+  },
+  {
+    "id": 242,
+    "domain": "reading",
+    "front": "What is an independent clause?",
+    "back": "An independent clause has a subject and a verb and expresses a complete thought. It can stand alone as its own sentence. For example, 'I went home' is an independent clause."
+  },
+  {
+    "id": 243,
+    "domain": "reading",
+    "front": "What is a compound sentence?",
+    "back": "A compound sentence joins two independent clauses with a coordinating conjunction and a comma. For example, 'I was hungry, and I made a sandwich' is a compound sentence."
+  },
+  {
+    "id": 244,
+    "domain": "reading",
+    "front": "What is a complex sentence?",
+    "back": "A complex sentence combines one independent clause with at least one dependent clause. For example, 'Although it was raining, she went for a walk' is a complex sentence."
+  },
+  {
+    "id": 245,
+    "domain": "reading",
+    "front": "What is the correct use of 'good' versus 'well'?",
+    "back": "'Good' is an adjective that describes a noun ('She is a good writer'). 'Well' is usually an adverb describing a verb ('She writes well'). Exception: after a linking verb when referring to health, 'well' acts as an adjective ('She looks well today' means she appears healthy)."
+  },
+  {
+    "id": 246,
+    "domain": "reading",
+    "front": "What is the difference between 'their', 'there', and 'they're'?",
+    "back": "'Their' shows possession (their house), 'there' indicates a place (over there), and 'they're' is a contraction for 'they are'. These are homophones that sound the same but have different meanings."
+  },
+  {
+    "id": 247,
+    "domain": "reading",
+    "front": "What is the difference between 'your' and 'you're'?",
+    "back": "'Your' shows possession, as in 'your book', while 'you're' is a contraction meaning 'you are'. For example, 'You're holding your pen' uses both correctly."
+  },
+  {
+    "id": 248,
+    "domain": "reading",
+    "front": "What is a homophone?",
+    "back": "A homophone is a word that sounds the same as another word but has a different spelling and meaning. For example, 'to', 'too', and 'two' are homophones."
+  },
+  {
+    "id": 249,
+    "domain": "reading",
+    "front": "What is subject-verb agreement with collective nouns?",
+    "back": "A collective noun names a group (team, committee, family). In Canadian English, collective nouns can take either a singular or plural verb depending on context. When the group acts as one unit: 'The team is ready.' When members act individually: 'The committee are divided.' Both are acceptable on the CAEC."
+  },
+  {
+    "id": 250,
+    "domain": "reading",
+    "front": "What is the correct plural possessive apostrophe rule?",
+    "back": "For plural nouns that already end in 's', add only an apostrophe after the 's' to show possession. For example, 'the students' desks' means the desks belong to multiple students."
+  },
+  {
+    "id": 251,
+    "domain": "reading",
+    "front": "What is a transition word in writing?",
+    "back": "A transition word or phrase connects ideas between sentences or paragraphs smoothly. Examples include 'however', 'in addition', 'for example', and 'as a result'."
+  },
+  {
+    "id": 252,
+    "domain": "reading",
+    "front": "Why are transition words important in an essay?",
+    "back": "Transitions guide the reader from one idea to the next, making the writing flow logically. Without them, an essay can feel choppy and hard to follow."
+  },
+  {
+    "id": 253,
+    "domain": "reading",
+    "front": "What is an active voice sentence?",
+    "back": "In active voice, the subject performs the action of the verb. For example, 'The teacher graded the papers' is active because the teacher (subject) does the action."
+  },
+  {
+    "id": 254,
+    "domain": "reading",
+    "front": "What is a passive voice sentence?",
+    "back": "In passive voice, the subject receives the action rather than performing it. For example, 'The papers were graded by the teacher' is passive. Active voice is usually clearer and stronger."
+  },
+  {
+    "id": 255,
+    "domain": "reading",
+    "front": "What is a prepositional phrase?",
+    "back": "A prepositional phrase starts with a preposition and ends with a noun or pronoun, giving more information about location, time, or direction. For example, 'on the table' and 'after lunch' are prepositional phrases."
+  },
+  {
+    "id": 256,
+    "domain": "reading",
+    "front": "What are the three types of pronouns based on use?",
+    "back": "Subject pronouns (I, he, she, they) perform the action, object pronouns (me, him, her, them) receive the action, and possessive pronouns (my, his, her, their) show ownership."
+  },
+  {
+    "id": 257,
+    "domain": "reading",
+    "front": "What is subject-verb agreement with indefinite pronouns?",
+    "back": "Indefinite pronouns like 'everyone', 'nobody', 'each', and 'either' are singular and take singular verbs. For example, 'Everyone is ready' is correct."
+  },
+  {
+    "id": 258,
+    "domain": "reading",
+    "front": "What is a comma used for after an introductory phrase?",
+    "back": "Use a comma after an introductory word, phrase, or clause that comes before the main sentence. For example, 'After the storm, the streets were flooded'."
+  },
+  {
+    "id": 259,
+    "domain": "reading",
+    "front": "What is sentence variety and why does it matter?",
+    "back": "Sentence variety means using a mix of short, medium, and long sentences with different structures. It makes writing more engaging and easier to read."
+  },
+  {
+    "id": 260,
+    "domain": "reading",
+    "front": "What is a hook in an essay introduction?",
+    "back": "A hook is the opening sentence designed to grab the reader's attention. It could be a surprising fact, a question, a quote, or a brief story."
+  },
+  {
+    "id": 261,
+    "domain": "reading",
+    "front": "What is the purpose of a topic sentence in a body paragraph?",
+    "back": "The topic sentence states the main point of the paragraph and connects to the essay's thesis. It tells the reader what evidence and explanation will follow in that paragraph."
+  },
+  {
+    "id": 262,
+    "domain": "reading",
+    "front": "What does 'coherence' mean in writing?",
+    "back": "Coherence means that ideas in a paragraph or essay flow logically and are easy to follow. Using transitions and keeping a clear focus helps create coherence."
+  },
+  {
+    "id": 263,
+    "domain": "reading",
+    "front": "What does 'unity' mean in a paragraph?",
+    "back": "Unity means every sentence in a paragraph relates to the topic sentence and supports the same main idea. A sentence that goes off topic breaks unity."
+  },
+  {
+    "id": 264,
+    "domain": "reading",
+    "front": "When should you use a colon in a sentence?",
+    "back": "Use a colon to introduce a list or an explanation after a complete sentence. For example, 'You will need three things: a pencil, paper, and a ruler'."
+  },
+  {
+    "id": 265,
+    "domain": "reading",
+    "front": "What is formal versus informal writing?",
+    "back": "Formal writing uses complete sentences, proper grammar, and no slang, as in a business letter or essay. Informal writing is casual and conversational, as in a text message to a friend."
+  },
+  {
+    "id": 266,
+    "domain": "reading",
+    "front": "What is the difference between a simple sentence and a compound sentence?",
+    "back": "A simple sentence has one independent clause. A compound sentence has two or more independent clauses joined by a coordinating conjunction or semicolon."
+  },
+  {
+    "id": 267,
+    "domain": "reading",
+    "front": "What is a concrete detail in writing?",
+    "back": "A concrete detail is a specific, observable fact or example rather than a vague statement. Instead of writing 'the weather was bad', a concrete detail is 'it snowed 30 centimeters overnight'."
+  },
+  {
+    "id": 268,
+    "domain": "reading",
+    "front": "What is the difference between a phrase and a clause?",
+    "back": "A phrase is a group of words without both a subject and a verb. A clause has both a subject and a verb, and it can be independent or dependent."
+  },
+  {
+    "id": 269,
+    "domain": "reading",
+    "front": "What are quotation marks used for?",
+    "back": "Quotation marks are used to enclose a speaker's exact words or the title of a short work like a poem or article. For example, She said, 'I will be there soon'."
+  },
+  {
+    "id": 270,
+    "domain": "reading",
+    "front": "What is an outline and why is it useful?",
+    "back": "An outline is a plan that organizes your main ideas and supporting details before you write. It helps you stay focused and makes drafting faster and more organized."
+  },
+  {
+    "id": 271,
+    "domain": "reading",
+    "front": "What is a dangling modifier?",
+    "back": "A dangling modifier is a describing phrase that does not clearly connect to the word it is meant to describe. For example, 'Running to the bus, my bag fell' is dangling because the bag cannot run."
+  },
+  {
+    "id": 272,
+    "domain": "reading",
+    "front": "What is wordiness in writing and how do you fix it?",
+    "back": "Wordiness means using more words than necessary to express an idea. Fix it by cutting out filler phrases. Instead of 'due to the fact that', simply write 'because'."
+  },
+  {
+    "id": 273,
+    "domain": "reading",
+    "front": "What is the difference between 'affect' and 'effect'?",
+    "back": "'Affect' is usually a verb meaning to influence something, while 'effect' is usually a noun meaning the result. For example, 'The rain affected the game, and the effect was a delay'."
+  },
+  {
+    "id": 274,
+    "domain": "reading",
+    "front": "What makes a strong thesis statement?",
+    "back": "A strong thesis states a specific, arguable point and tells the reader the direction of the essay. It is not a fact and not too broad. For example, 'Public libraries are essential community resources because they provide free education and internet access to everyone'."
+  },
+  {
+    "id": 275,
+    "domain": "reading",
+    "front": "What is the purpose of a concluding sentence in a body paragraph?",
+    "back": "A concluding sentence wraps up the paragraph and connects the evidence back to the main point. It signals to the reader that one idea is complete before moving to the next."
+  },
+  {
+    "id": 276,
+    "domain": "science",
+    "front": "What are the steps of the scientific method?",
+    "back": "The scientific method has six steps: ask a question, research, form a hypothesis, conduct an experiment, analyze data, and draw a conclusion. Each step builds on the previous one to test ideas in a reliable, repeatable way."
+  },
+  {
+    "id": 277,
+    "domain": "science",
+    "front": "What is a hypothesis?",
+    "back": "A hypothesis is an educated guess about what will happen in an experiment, written as an if-then statement. For example: 'If a plant gets more sunlight, then it will grow taller.' It must be testable."
+  },
+  {
+    "id": 278,
+    "domain": "science",
+    "front": "What is the difference between an independent and dependent variable?",
+    "back": "The independent variable is what the scientist changes on purpose, and the dependent variable is what is measured as a result. For example, if you change the amount of water a plant gets, the plant's growth is the dependent variable."
+  },
+  {
+    "id": 279,
+    "domain": "science",
+    "front": "What is a control group in an experiment?",
+    "back": "A control group is the group that does not receive any change -- it stays the same so you have something to compare results against. For example, if testing fertilizer, the control group gets no fertilizer while the test group does."
+  },
+  {
+    "id": 280,
+    "domain": "science",
+    "front": "What is a conclusion in the scientific method?",
+    "back": "A conclusion is the final statement that explains what the data showed and whether it supported the hypothesis. A good conclusion also suggests what could be tested next or what might explain unexpected results."
+  },
+  {
+    "id": 281,
+    "domain": "science",
+    "front": "What is the difference between a prokaryote and a eukaryote?",
+    "back": "Prokaryotes are simple cells with no nucleus, like bacteria. Eukaryotes have a true nucleus that holds their DNA, and include all plant, animal, and fungal cells. Eukaryote cells are generally larger and more complex."
+  },
+  {
+    "id": 282,
+    "domain": "science",
+    "front": "What does the cell membrane do?",
+    "back": "The cell membrane is a thin, flexible layer that surrounds every cell and controls what enters and exits. It lets nutrients in and waste products out, keeping the inside of the cell stable."
+  },
+  {
+    "id": 283,
+    "domain": "science",
+    "front": "What is the role of the nucleus in a cell?",
+    "back": "The nucleus is the control center of a cell and contains the cell's DNA, which carries all the instructions for how the cell works and reproduces. Every eukaryote cell has a nucleus, but prokaryotes do not."
+  },
+  {
+    "id": 284,
+    "domain": "science",
+    "front": "What does the mitochondria do in a cell?",
+    "back": "The mitochondria produce energy for the cell by converting glucose and oxygen into ATP, the cell's usable energy. They are often called the powerhouse of the cell because they fuel almost all cell activities."
+  },
+  {
+    "id": 285,
+    "domain": "science",
+    "front": "What is the function of chloroplasts in plant cells?",
+    "back": "Chloroplasts capture sunlight and use it to make food through photosynthesis. They contain a green pigment called chlorophyll, which is why most plants appear green."
+  },
+  {
+    "id": 286,
+    "domain": "science",
+    "front": "What is cell division, and why does it happen?",
+    "back": "Cell division is the process by which one cell splits into two new cells. It allows organisms to grow, replace old or damaged cells, and reproduce. The most common type is mitosis, which produces two identical copies."
+  },
+  {
+    "id": 287,
+    "domain": "science",
+    "front": "What is DNA, and where is it found?",
+    "back": "DNA is a molecule that carries the genetic instructions for how a living thing grows, functions, and reproduces. In eukaryote cells, DNA is stored inside the nucleus, tightly coiled into structures called chromosomes."
+  },
+  {
+    "id": 288,
+    "domain": "science",
+    "front": "What is a gene?",
+    "back": "A gene is a specific section of DNA that contains instructions for making a particular trait, like eye color or blood type. Humans have around 20,000 to 25,000 genes, each located at a specific spot on a chromosome."
+  },
+  {
+    "id": 289,
+    "domain": "science",
+    "front": "What is the difference between dominant and recessive traits?",
+    "back": "A dominant trait shows up even when only one copy of the gene is present, while a recessive trait only shows up when two copies are inherited. For example, brown eye color is dominant over blue eye color."
+  },
+  {
+    "id": 290,
+    "domain": "science",
+    "front": "What is a Punnett square used for?",
+    "back": "A Punnett square is a simple grid used to predict the possible traits an offspring might inherit from two parents. Each box in the grid shows one possible combination of genes from each parent."
+  },
+  {
+    "id": 291,
+    "domain": "science",
+    "front": "What is heredity?",
+    "back": "Heredity is the passing of traits from parents to their children through genes. It explains why children often look similar to their parents but are not identical to either one."
+  },
+  {
+    "id": 292,
+    "domain": "science",
+    "front": "What are the main functions of the skeletal system?",
+    "back": "The skeletal system supports the body, protects organs, allows movement, and produces blood cells inside the bone marrow. Adults have 206 bones that work together with muscles to enable motion."
+  },
+  {
+    "id": 293,
+    "domain": "science",
+    "front": "What is the difference between voluntary and involuntary muscles?",
+    "back": "Voluntary muscles are ones you control on purpose, like the muscles in your arms and legs. Involuntary muscles work automatically without you thinking about them, like the heart and the muscles lining your stomach."
+  },
+  {
+    "id": 294,
+    "domain": "science",
+    "front": "What are the main parts of the digestive system?",
+    "back": "The digestive system includes the mouth, esophagus, stomach, small intestine, and large intestine. Food is broken down mechanically by chewing and chemically by acids and enzymes so nutrients can be absorbed into the blood."
+  },
+  {
+    "id": 295,
+    "domain": "science",
+    "front": "What does the small intestine do?",
+    "back": "The small intestine absorbs most of the nutrients from digested food into the bloodstream. It is about 6 meters long and lined with tiny finger-like structures called villi that increase the surface area for absorption."
+  },
+  {
+    "id": 296,
+    "domain": "science",
+    "front": "What is the role of the heart in the circulatory system?",
+    "back": "The heart pumps blood throughout the entire body, delivering oxygen and nutrients to cells and carrying away waste products like carbon dioxide. It beats about 60 to 100 times per minute in a healthy adult at rest."
+  },
+  {
+    "id": 297,
+    "domain": "science",
+    "front": "What is the difference between arteries and veins?",
+    "back": "Arteries carry oxygen-rich blood away from the heart to the rest of the body, while veins carry oxygen-poor blood back to the heart. The exception is the pulmonary artery, which carries blood to the lungs to pick up oxygen."
+  },
+  {
+    "id": 298,
+    "domain": "science",
+    "front": "What happens during gas exchange in the lungs?",
+    "back": "In the lungs, oxygen from inhaled air passes into the blood, and carbon dioxide from the blood passes into the air to be exhaled. This exchange happens in tiny air sacs called alveoli, which have very thin walls and a rich blood supply."
+  },
+  {
+    "id": 299,
+    "domain": "science",
+    "front": "What are the main parts of the nervous system?",
+    "back": "The nervous system is made up of the brain, spinal cord, and a network of nerves throughout the body. The brain and spinal cord form the central nervous system, while the nerves that branch out form the peripheral nervous system."
+  },
+  {
+    "id": 300,
+    "domain": "science",
+    "front": "What is the role of neurons in the nervous system?",
+    "back": "Neurons are specialized cells that carry electrical signals throughout the body. They transmit information from the senses to the brain and from the brain to muscles, allowing the body to respond to its environment."
+  },
+  {
+    "id": 301,
+    "domain": "science",
+    "front": "How does the immune system protect the body?",
+    "back": "The immune system defends the body against harmful invaders like bacteria, viruses, and parasites. It uses white blood cells called antibodies to identify and destroy foreign substances, and it builds a memory of past infections to respond faster in the future."
+  },
+  {
+    "id": 302,
+    "domain": "science",
+    "front": "What is the difference between a producer, consumer, and decomposer?",
+    "back": "Producers make their own food using sunlight, like plants. Consumers eat other organisms for energy, like animals. Decomposers break down dead material and return nutrients to the soil, like fungi and bacteria."
+  },
+  {
+    "id": 303,
+    "domain": "science",
+    "front": "What is a food web?",
+    "back": "A food web shows the feeding relationships among many organisms in an ecosystem, showing who eats whom. It is more realistic than a simple food chain because most animals eat more than one type of food."
+  },
+  {
+    "id": 304,
+    "domain": "science",
+    "front": "What is photosynthesis?",
+    "back": "Photosynthesis is the process plants use to convert sunlight, water, and carbon dioxide into glucose (food) and oxygen. The basic equation is: carbon dioxide + water + light energy produces glucose and oxygen."
+  },
+  {
+    "id": 305,
+    "domain": "science",
+    "front": "What is cellular respiration?",
+    "back": "Cellular respiration is the process cells use to break down glucose and release energy. It requires oxygen and produces carbon dioxide and water as waste products, essentially the reverse of photosynthesis."
+  },
+  {
+    "id": 306,
+    "domain": "science",
+    "front": "What is a biome?",
+    "back": "A biome is a large region of Earth with a specific climate, plants, and animals that are adapted to live there. Examples include the tropical rainforest, desert, tundra, grassland, and deciduous forest."
+  },
+  {
+    "id": 307,
+    "domain": "science",
+    "front": "What is the difference between a habitat and an ecosystem?",
+    "back": "A habitat is the specific place where an organism lives, like a pond or a tree. An ecosystem includes all the living organisms in an area plus the non-living parts like water, soil, and sunlight, and how they all interact."
+  },
+  {
+    "id": 308,
+    "domain": "science",
+    "front": "What is biodiversity, and why does it matter?",
+    "back": "Biodiversity refers to the variety of living species in a given area or on Earth as a whole. High biodiversity makes ecosystems more stable and resilient because if one species is lost, others can fill similar roles."
+  },
+  {
+    "id": 309,
+    "domain": "science",
+    "front": "What causes climate change?",
+    "back": "Climate change is caused mainly by the buildup of greenhouse gases in the atmosphere, especially carbon dioxide from burning fossil fuels. These gases trap heat from the sun, causing Earth's average temperature to rise over time."
+  },
+  {
+    "id": 310,
+    "domain": "science",
+    "front": "What are greenhouse gases?",
+    "back": "Greenhouse gases are gases that trap heat in Earth's atmosphere, like carbon dioxide, methane, and water vapor. They act like a blanket around the planet, which is helpful in small amounts but harmful in excess amounts."
+  },
+  {
+    "id": 311,
+    "domain": "science",
+    "front": "What is the carbon cycle?",
+    "back": "The carbon cycle is the movement of carbon through the environment -- through the air, plants, animals, soil, and oceans. Plants absorb carbon dioxide, animals eat plants, and decomposers release carbon back when organisms die."
+  },
+  {
+    "id": 312,
+    "domain": "science",
+    "front": "What are the stages of the water cycle?",
+    "back": "The water cycle includes evaporation (water turns to vapor), condensation (vapor forms clouds), precipitation (rain or snow falls), and collection (water gathers in lakes, rivers, and oceans). The sun drives the entire cycle."
+  },
+  {
+    "id": 313,
+    "domain": "science",
+    "front": "What is the difference between a renewable and non-renewable resource?",
+    "back": "A renewable resource can be naturally replenished over a short time, like sunlight, wind, and water. A non-renewable resource forms very slowly over millions of years and can run out, like coal, oil, and natural gas."
+  },
+  {
+    "id": 314,
+    "domain": "science",
+    "front": "What is natural selection?",
+    "back": "Natural selection is the process by which organisms with traits better suited to their environment survive and reproduce more successfully. Over many generations, this leads to changes in a population, which is the basis of evolution."
+  },
+  {
+    "id": 315,
+    "domain": "science",
+    "front": "What is adaptation in biology?",
+    "back": "An adaptation is a trait that helps an organism survive and reproduce in its environment. For example, a polar bear's thick fur is an adaptation to cold Arctic temperatures."
+  },
+  {
+    "id": 316,
+    "domain": "science",
+    "front": "What is the difference between a parasite and a mutualistic relationship?",
+    "back": "In a parasitic relationship, one organism benefits while the other is harmed, like a tick feeding on a dog. In a mutualistic relationship, both organisms benefit, like bees pollinating flowers while collecting nectar."
+  },
+  {
+    "id": 317,
+    "domain": "science",
+    "front": "What is an invasive species?",
+    "back": "An invasive species is an organism that is introduced to a new area where it does not naturally belong and causes harm to the existing ecosystem. For example, zebra mussels in the Great Lakes outcompete native species for food and space."
+  },
+  {
+    "id": 318,
+    "domain": "science",
+    "front": "What is the difference between mitosis and meiosis?",
+    "back": "Mitosis produces two identical cells for growth and repair. Meiosis produces four sex cells (sperm or eggs) with half the usual number of chromosomes, so that when two sex cells join, the offspring has the correct total."
+  },
+  {
+    "id": 319,
+    "domain": "science",
+    "front": "What is a mutation?",
+    "back": "A mutation is a change in the DNA sequence of an organism. Some mutations are harmless, some can cause diseases, and a few may even be beneficial if they help an organism survive better in its environment."
+  },
+  {
+    "id": 320,
+    "domain": "science",
+    "front": "What does the endocrine system do?",
+    "back": "The endocrine system uses glands to release hormones into the blood that control body processes like growth, metabolism, and reproduction. The pancreas, thyroid, and adrenal glands are all part of this system."
+  },
+  {
+    "id": 321,
+    "domain": "science",
+    "front": "What is the role of the kidneys?",
+    "back": "The kidneys filter waste products from the blood and remove them from the body in urine. They also help control blood pressure and balance the levels of water and minerals in the body."
+  },
+  {
+    "id": 322,
+    "domain": "science",
+    "front": "What is the difference between plant cells and animal cells?",
+    "back": "Plant cells have a rigid cell wall, chloroplasts for photosynthesis, and a large central vacuole for storage, which animal cells do not have. Both types have a nucleus, cell membrane, and mitochondria."
+  },
+  {
+    "id": 323,
+    "domain": "science",
+    "front": "What is a trophic level in an ecosystem?",
+    "back": "A trophic level is a step in a food chain that shows how energy moves from one group of organisms to the next. Producers are at the first level, primary consumers at the second, and so on up the chain."
+  },
+  {
+    "id": 324,
+    "domain": "science",
+    "front": "What is the role of decomposers in an ecosystem?",
+    "back": "Decomposers break down dead plants and animals into simpler substances, returning essential nutrients to the soil. Without decomposers, dead material would pile up and nutrients would not be recycled back into the ecosystem."
+  },
+  {
+    "id": 325,
+    "domain": "science",
+    "front": "What is the difference between weather and climate?",
+    "back": "Weather describes short-term atmospheric conditions at a specific place, like today's rain or temperature. Climate describes the average weather patterns in a region over a long period of time, usually 30 years or more."
+  },
+  {
+    "id": 326,
+    "domain": "science",
+    "front": "What is symbiosis?",
+    "back": "Symbiosis is a close, long-term relationship between two different species. The three main types are mutualism (both benefit), commensalism (one benefits, other is unaffected), and parasitism (one benefits, one is harmed)."
+  },
+  {
+    "id": 327,
+    "domain": "science",
+    "front": "What does the lymphatic system do?",
+    "back": "The lymphatic system collects excess fluid from body tissues and returns it to the blood, and it plays a key role in immune defense. Lymph nodes filter harmful substances and are where many white blood cells are stored."
+  },
+  {
+    "id": 328,
+    "domain": "science",
+    "front": "What are the three states of matter?",
+    "back": "The three states of matter are solid, liquid, and gas. In a solid, particles are tightly packed. In a liquid, particles flow freely but stay close together. In a gas, particles spread out and fill any container they are in."
+  },
+  {
+    "id": 329,
+    "domain": "science",
+    "front": "What is an atom?",
+    "back": "An atom is the smallest unit of an element that still has the properties of that element. Every atom has a nucleus made of protons and neutrons, surrounded by electrons moving in a cloud around it."
+  },
+  {
+    "id": 330,
+    "domain": "science",
+    "front": "What is the difference between an element, compound, and mixture?",
+    "back": "An element is a pure substance made of only one type of atom, like oxygen. A compound is formed when two or more elements chemically bond, like water (H2O). A mixture contains two or more substances physically combined but not chemically bonded."
+  },
+  {
+    "id": 331,
+    "domain": "science",
+    "front": "What is the periodic table?",
+    "back": "The periodic table is a chart that organizes all known elements by their atomic number and properties. Elements in the same column share similar chemical behaviors, which helps scientists predict how they will react."
+  },
+  {
+    "id": 332,
+    "domain": "science",
+    "front": "What is the difference between a physical and chemical change?",
+    "back": "A physical change alters the form of a substance but not its chemical makeup, like ice melting into water. A chemical change produces a new substance with different properties, like wood burning into ash and smoke."
+  },
+  {
+    "id": 333,
+    "domain": "science",
+    "front": "What are reactants and products in a chemical reaction?",
+    "back": "Reactants are the starting substances that enter a chemical reaction, and products are the new substances that are formed. In the equation for burning methane, methane and oxygen are the reactants, and carbon dioxide and water are the products."
+  },
+  {
+    "id": 334,
+    "domain": "science",
+    "front": "What is the difference between an endothermic and exothermic reaction?",
+    "back": "An endothermic reaction absorbs heat from its surroundings, making things feel cold -- like an ice pack. An exothermic reaction releases heat into the surroundings, making things feel warm -- like burning wood or a hand warmer."
+  },
+  {
+    "id": 335,
+    "domain": "science",
+    "front": "What is Newton's First Law of Motion?",
+    "back": "Newton's First Law states that an object at rest stays at rest and an object in motion stays in motion unless acted on by an outside force. This is also called the law of inertia. A ball rolling on a flat surface slows down because friction acts on it."
+  },
+  {
+    "id": 336,
+    "domain": "science",
+    "front": "What is Newton's Second Law of Motion?",
+    "back": "Newton's Second Law states that force equals mass times acceleration (F = ma). This means a heavier object requires more force to accelerate at the same rate as a lighter one. Pushing a loaded shopping cart is harder than pushing an empty one."
+  },
+  {
+    "id": 337,
+    "domain": "science",
+    "front": "What is Newton's Third Law of Motion?",
+    "back": "Newton's Third Law states that for every action, there is an equal and opposite reaction. When you push off a wall, the wall pushes back on you with the same amount of force, which is what moves you backward."
+  },
+  {
+    "id": 338,
+    "domain": "science",
+    "front": "What is the difference between speed and velocity?",
+    "back": "Speed is how fast an object is moving, while velocity includes both speed and direction. A car moving at 80 km/h has a speed, but a car moving at 80 km/h north has a velocity because direction is specified."
+  },
+  {
+    "id": 339,
+    "domain": "science",
+    "front": "What is acceleration?",
+    "back": "Acceleration is the rate at which an object changes its velocity, either speeding up, slowing down, or changing direction. A car speeding up from a stop sign and a car braking at a red light are both experiencing acceleration."
+  },
+  {
+    "id": 340,
+    "domain": "science",
+    "front": "What is gravity?",
+    "back": "Gravity is a force of attraction between objects that have mass. The more massive an object is, the stronger its gravitational pull. Earth's gravity pulls everything toward its center, which is why objects fall downward when dropped."
+  },
+  {
+    "id": 341,
+    "domain": "science",
+    "front": "What is the difference between kinetic and potential energy?",
+    "back": "Kinetic energy is the energy an object has because it is moving, while potential energy is stored energy based on an object's position or condition. A ball rolling down a hill has kinetic energy; a ball held at the top of the hill has potential energy."
+  },
+  {
+    "id": 342,
+    "domain": "science",
+    "front": "What is the law of conservation of energy?",
+    "back": "The law of conservation of energy states that energy cannot be created or destroyed -- it can only change from one form to another. When you ride a bike downhill, potential energy converts to kinetic energy and heat from friction."
+  },
+  {
+    "id": 343,
+    "domain": "science",
+    "front": "What are the main types of energy?",
+    "back": "The main types of energy include thermal (heat), electrical, light (radiant), sound, chemical, mechanical, and nuclear energy. Most energy we use daily starts as one of these types and gets converted into another."
+  },
+  {
+    "id": 344,
+    "domain": "science",
+    "front": "What is thermal energy, and how does it transfer?",
+    "back": "Thermal energy is the total internal energy of an object's particles due to their motion. It transfers in three ways: conduction (direct contact), convection (through fluids), and radiation (through electromagnetic waves like sunlight)."
+  },
+  {
+    "id": 345,
+    "domain": "science",
+    "front": "What is electrical current?",
+    "back": "Electrical current is the flow of electric charge (electrons) through a conductor like a wire. It is measured in amperes (amps) and flows from areas of high voltage to low voltage, similar to how water flows downhill."
+  },
+  {
+    "id": 346,
+    "domain": "science",
+    "front": "What is voltage?",
+    "back": "Voltage is the electrical pressure that pushes electrons through a circuit, measured in volts (V). A higher voltage means a stronger push, which can drive more current through a circuit -- similar to water pressure in a pipe."
+  },
+  {
+    "id": 347,
+    "domain": "science",
+    "front": "What is resistance in an electrical circuit?",
+    "back": "Resistance is how much a material opposes the flow of electric current, measured in ohms. Materials like copper have low resistance (they are good conductors), while rubber has high resistance (it is a good insulator)."
+  },
+  {
+    "id": 348,
+    "domain": "science",
+    "front": "What is Ohm's Law?",
+    "back": "Ohm's Law states that voltage equals current times resistance (V = I x R). This means if you increase voltage in a circuit without changing resistance, the current will increase. It helps predict how circuits behave."
+  },
+  {
+    "id": 349,
+    "domain": "science",
+    "front": "What is the difference between a series and parallel circuit?",
+    "back": "In a series circuit, all components are connected in one single loop, so if one part fails, the whole circuit stops. In a parallel circuit, components are connected in separate branches, so one part can fail without affecting the others."
+  },
+  {
+    "id": 350,
+    "domain": "science",
+    "front": "What is a wave?",
+    "back": "A wave is a disturbance that transfers energy from one place to another without moving matter along with it. Waves can travel through materials (like sound through air) or through empty space (like light from the sun)."
+  },
+  {
+    "id": 351,
+    "domain": "science",
+    "front": "What is the difference between a transverse and longitudinal wave?",
+    "back": "In a transverse wave, particles move up and down perpendicular to the direction the wave travels, like waves on water. In a longitudinal wave, particles move back and forth in the same direction as the wave, like sound waves."
+  },
+  {
+    "id": 352,
+    "domain": "science",
+    "front": "What is the electromagnetic spectrum?",
+    "back": "The electromagnetic spectrum is the range of all types of electromagnetic radiation, ordered by wavelength and frequency. From longest to shortest wavelength, it goes: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays."
+  },
+  {
+    "id": 353,
+    "domain": "science",
+    "front": "How does sound travel?",
+    "back": "Sound travels as a longitudinal wave through vibrating particles in a medium like air, water, or solids. Sound cannot travel through a vacuum (empty space) because there are no particles to carry the vibration."
+  },
+  {
+    "id": 354,
+    "domain": "science",
+    "front": "What determines the pitch of a sound?",
+    "back": "The pitch of a sound is determined by its frequency -- the number of vibrations per second, measured in hertz (Hz). A high-frequency sound has a high pitch (like a whistle), and a low-frequency sound has a low pitch (like a bass drum)."
+  },
+  {
+    "id": 355,
+    "domain": "science",
+    "front": "What is the difference between reflection and refraction of light?",
+    "back": "Reflection is when light bounces off a surface, like a mirror. Refraction is when light bends as it passes from one material into another, like a straw appearing bent when placed in a glass of water."
+  },
+  {
+    "id": 356,
+    "domain": "science",
+    "front": "What are the layers of Earth's atmosphere?",
+    "back": "Earth's atmosphere has five main layers: troposphere (where weather occurs), stratosphere (contains the ozone layer), mesosphere, thermosphere, and exosphere. The troposphere is the layer closest to Earth's surface."
+  },
+  {
+    "id": 357,
+    "domain": "science",
+    "front": "What is the rock cycle?",
+    "back": "The rock cycle describes how rocks change from one type to another over millions of years through processes like melting, cooling, pressure, and erosion. The three main rock types -- igneous, sedimentary, and metamorphic -- can all change into one another."
+  },
+  {
+    "id": 358,
+    "domain": "science",
+    "front": "What are the three types of rock?",
+    "back": "Igneous rocks form when melted rock (magma or lava) cools and hardens. Sedimentary rocks form from layers of sediment pressed together over time. Metamorphic rocks form when existing rocks are changed by intense heat and pressure."
+  },
+  {
+    "id": 359,
+    "domain": "science",
+    "front": "What is plate tectonics?",
+    "back": "Plate tectonics is the theory that Earth's crust is broken into large pieces called tectonic plates that slowly move over time. Their movement causes earthquakes, volcanoes, and the formation of mountains along the plate boundaries."
+  },
+  {
+    "id": 360,
+    "domain": "science",
+    "front": "What causes earthquakes?",
+    "back": "Earthquakes are caused by the sudden release of energy when tectonic plates shift, slip, or collide at their boundaries. The energy travels as seismic waves that shake the ground, and the strongest shaking is closest to the epicenter."
+  },
+  {
+    "id": 361,
+    "domain": "science",
+    "front": "What is a volcano, and how does it form?",
+    "back": "A volcano is an opening in Earth's crust where molten rock (magma) escapes to the surface as lava. Volcanoes often form at the boundaries of tectonic plates or above hot spots where magma rises through the crust."
+  },
+  {
+    "id": 362,
+    "domain": "science",
+    "front": "What is erosion, and what causes it?",
+    "back": "Erosion is the wearing away and transport of rock or soil by natural forces like water, wind, ice, and gravity. Rivers carve valleys over thousands of years, and wind shapes desert landscapes by blowing sand against rock."
+  },
+  {
+    "id": 363,
+    "domain": "science",
+    "front": "What is the difference between weather and climate change?",
+    "back": "Weather refers to short-term day-to-day changes in temperature, precipitation, and wind. Climate change refers to long-term shifts in global temperature and weather patterns caused mostly by human activities releasing greenhouse gases."
+  },
+  {
+    "id": 364,
+    "domain": "science",
+    "front": "What causes the seasons on Earth?",
+    "back": "Seasons are caused by the tilt of Earth's axis as it orbits the sun. When the Northern Hemisphere is tilted toward the sun, it experiences summer with longer days and more direct sunlight, and the Southern Hemisphere has winter."
+  },
+  {
+    "id": 365,
+    "domain": "science",
+    "front": "What is the solar system?",
+    "back": "The solar system is the sun and everything that orbits it, including eight planets, their moons, dwarf planets, asteroids, and comets. The planets, in order from the sun, are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "id": 366,
+    "domain": "science",
+    "front": "What is the difference between a planet and a moon?",
+    "back": "A planet is a large, spherical body that orbits the sun directly. A moon is a natural body that orbits a planet rather than the sun. Earth has one moon; Jupiter has more than 90 known moons."
+  },
+  {
+    "id": 367,
+    "domain": "science",
+    "front": "What is a light-year?",
+    "back": "A light-year is the distance that light travels in one year, about 9.46 trillion kilometers. It is used to measure distances between stars and galaxies because those distances are far too large to express in regular kilometers."
+  },
+  {
+    "id": 368,
+    "domain": "science",
+    "front": "What causes the phases of the moon?",
+    "back": "The moon's phases are caused by how much of the sunlit side of the moon is visible from Earth as the moon orbits Earth. When the moon is between Earth and the sun, we see a new moon; when Earth is between them, we see a full moon."
+  },
+  {
+    "id": 369,
+    "domain": "science",
+    "front": "What is a star?",
+    "back": "A star is a massive ball of gas, mostly hydrogen and helium, that produces light and heat through nuclear fusion reactions in its core. Our sun is a medium-sized star located about 150 million kilometers from Earth."
+  },
+  {
+    "id": 370,
+    "domain": "science",
+    "front": "What is the difference between a comet and an asteroid?",
+    "back": "A comet is a small icy body that releases gas and dust as it approaches the sun, forming a visible tail. An asteroid is a rocky or metallic body with no ice or tail, mostly found in the asteroid belt between Mars and Jupiter."
+  },
+  {
+    "id": 371,
+    "domain": "science",
+    "front": "What causes thunder and lightning?",
+    "back": "Lightning is caused by the buildup and sudden release of electrical charge between clouds or between a cloud and the ground. Thunder is the sound produced by the rapid heating and expansion of the air around the lightning bolt."
+  },
+  {
+    "id": 372,
+    "domain": "science",
+    "front": "What is the difference between conduction, convection, and radiation?",
+    "back": "Conduction transfers heat through direct contact between objects, like a metal spoon heating up in hot soup. Convection transfers heat through the movement of fluids like air or water. Radiation transfers heat through electromagnetic waves, like warmth from sunlight."
+  },
+  {
+    "id": 373,
+    "domain": "science",
+    "front": "What is friction, and how does it affect motion?",
+    "back": "Friction is a force that opposes motion when two surfaces are in contact. It slows objects down and converts kinetic energy into thermal energy (heat). Rough surfaces create more friction than smooth ones."
+  },
+  {
+    "id": 374,
+    "domain": "science",
+    "front": "What is buoyancy?",
+    "back": "Buoyancy is the upward force exerted by a fluid on an object placed in it. An object floats if it is less dense than the fluid around it. A steel ship floats because its hollow shape makes its average density less than water."
+  },
+  {
+    "id": 375,
+    "domain": "science",
+    "front": "What is the difference between mass and weight?",
+    "back": "Mass is the amount of matter in an object and does not change regardless of location. Weight is the force of gravity pulling on that mass, so it changes depending on the strength of gravity. On the moon, your mass stays the same but your weight is less."
+  },
+  {
+    "id": 376,
+    "domain": "science",
+    "front": "What is a conductor versus an insulator?",
+    "back": "A conductor is a material that allows electrical current to flow easily through it, like copper wire. An insulator is a material that resists the flow of electricity, like rubber or plastic, which is why wires are coated in these materials."
+  },
+  {
+    "id": 377,
+    "domain": "science",
+    "front": "What is the ozone layer, and why is it important?",
+    "back": "The ozone layer is a region of Earth's stratosphere containing high concentrations of ozone gas that absorbs most of the sun's harmful ultraviolet radiation. Without it, UV radiation would reach Earth's surface and cause serious damage to living organisms."
+  },
+  {
+    "id": 378,
+    "domain": "science",
+    "front": "What is the difference between nuclear fission and nuclear fusion?",
+    "back": "Nuclear fission splits a large atom into smaller ones, releasing a huge amount of energy -- this is how nuclear power plants work. Nuclear fusion joins two small atoms together to release energy -- this is the process that powers the sun."
+  },
+  {
+    "id": 379,
+    "domain": "science",
+    "front": "What is density?",
+    "back": "Density is the amount of mass packed into a given volume, calculated as mass divided by volume. A material is denser if it has more matter crammed into the same space -- for example, iron is much denser than wood."
+  },
+  {
+    "id": 380,
+    "domain": "science",
+    "front": "What is the difference between renewable energy sources and fossil fuels?",
+    "back": "Renewable energy sources like solar, wind, and hydroelectric power are naturally replenished and produce little to no greenhouse gases. Fossil fuels like coal, oil, and natural gas took millions of years to form and release carbon dioxide when burned, contributing to climate change."
+  },
+  {
+    "id": 381,
+    "domain": "social_studies",
+    "front": "When did Canada become a country?",
+    "back": "Canada became a confederation on July 1, 1867, with the passage of the British North America Act. The original four provinces were Ontario, Quebec, Nova Scotia, and New Brunswick."
+  },
+  {
+    "id": 382,
+    "domain": "social_studies",
+    "front": "What were the main groups of Indigenous peoples in Canada before European contact?",
+    "back": "Before European arrival, Canada was home to hundreds of distinct First Nations, Inuit, and Metis peoples, each with their own languages, cultures, and governments. These groups had lived on the land for thousands of years."
+  },
+  {
+    "id": 383,
+    "domain": "social_studies",
+    "front": "What is a Treaty in the context of Canadian Indigenous history?",
+    "back": "A Treaty is a formal agreement between the Canadian Crown and Indigenous nations, usually covering land use, rights, and responsibilities. Many historic treaties were signed in the 1800s and early 1900s as the government expanded westward."
+  },
+  {
+    "id": 384,
+    "domain": "social_studies",
+    "front": "What were residential schools in Canada?",
+    "back": "Residential schools were government-funded, church-run institutions where Indigenous children were forced to live apart from their families. The schools aimed to eliminate Indigenous languages and cultures, causing lasting harm to generations of people."
+  },
+  {
+    "id": 385,
+    "domain": "social_studies",
+    "front": "What does TRC stand for, and what was its purpose?",
+    "back": "TRC stands for Truth and Reconciliation Commission. It was created to document the history and impacts of residential schools and to help rebuild relationships between Indigenous and non-Indigenous Canadians."
+  },
+  {
+    "id": 386,
+    "domain": "social_studies",
+    "front": "What is UNDRIP and why does it matter to Canada?",
+    "back": "UNDRIP stands for the United Nations Declaration on the Rights of Indigenous Peoples. Canada adopted it in 2016, committing to respect Indigenous peoples' rights to their lands, cultures, and self-governance."
+  },
+  {
+    "id": 387,
+    "domain": "social_studies",
+    "front": "Who were the first Europeans to colonize large parts of Canada?",
+    "back": "The French and the British were the two main colonial powers in Canada. France established settlements in Quebec and Acadia, while Britain controlled Newfoundland and Hudson Bay and later took over French territories."
+  },
+  {
+    "id": 388,
+    "domain": "social_studies",
+    "front": "What was the Seven Years' War and what did it mean for Canada?",
+    "back": "The Seven Years' War (1756-1763) was a conflict between Britain and France that was fought in many parts of the world, including North America. Britain's victory at the Battle of the Plains of Abraham gave it control over New France, which is now Quebec."
+  },
+  {
+    "id": 389,
+    "domain": "social_studies",
+    "front": "What is the Battle of the Plains of Abraham?",
+    "back": "The Battle of the Plains of Abraham was fought in 1759 near Quebec City between British and French forces. The British victory effectively ended French military control over Canada."
+  },
+  {
+    "id": 390,
+    "domain": "social_studies",
+    "front": "What was the British North America Act?",
+    "back": "The British North America Act of 1867 was the law passed by the British Parliament that officially created Canada as a country. It set up the federal government, the provinces, and divided powers between them."
+  },
+  {
+    "id": 391,
+    "domain": "social_studies",
+    "front": "Who was Canada's first Prime Minister?",
+    "back": "Sir John A. Macdonald was Canada's first Prime Minister, serving from 1867 to 1873 and again from 1878 to 1891. He is remembered for pushing the construction of the Canadian Pacific Railway, which connected the country coast to coast."
+  },
+  {
+    "id": 392,
+    "domain": "social_studies",
+    "front": "What role did the Canadian Pacific Railway play in Canadian history?",
+    "back": "The Canadian Pacific Railway, completed in 1885, was the first rail line to cross Canada from coast to coast. It made it easier to move settlers and goods west and was key to bringing British Columbia into Confederation."
+  },
+  {
+    "id": 393,
+    "domain": "social_studies",
+    "front": "What is Confederation in Canadian history?",
+    "back": "Confederation is the process by which British colonies joined together to form the Dominion of Canada in 1867. Over time, more provinces and territories joined, building the country as it exists today."
+  },
+  {
+    "id": 394,
+    "domain": "social_studies",
+    "front": "When did Canada participate in World War I, and what was one major battle?",
+    "back": "Canada fought in World War I from 1914 to 1918 as part of the British Empire. The Battle of Vimy Ridge in 1917 is seen as a defining moment for Canada, as Canadian troops captured a position that others had failed to take."
+  },
+  {
+    "id": 395,
+    "domain": "social_studies",
+    "front": "What is the significance of Vimy Ridge to Canada?",
+    "back": "The Battle of Vimy Ridge in April 1917 was the first time all four divisions of the Canadian Corps fought together. The victory gave Canada a stronger sense of national identity and pride separate from Britain."
+  },
+  {
+    "id": 396,
+    "domain": "social_studies",
+    "front": "When did Canada fight in World War II?",
+    "back": "Canada participated in World War II from 1939 to 1945. Canadian forces fought in Europe, North Africa, and the Atlantic Ocean, and Canada also played a major role in training Allied pilots through the British Commonwealth Air Training Plan."
+  },
+  {
+    "id": 397,
+    "domain": "social_studies",
+    "front": "What happened to Japanese Canadians during World War II?",
+    "back": "During World War II, the Canadian government forced about 22,000 Japanese Canadians out of their homes on the West Coast and sent them to internment camps. This is now recognized as a serious violation of their rights."
+  },
+  {
+    "id": 398,
+    "domain": "social_studies",
+    "front": "How did immigration change Canada after World War II?",
+    "back": "After World War II, Canada welcomed large numbers of immigrants from Europe and later from Asia, Africa, and the Caribbean. This transformed Canada into a more diverse country and helped build its post-war economy."
+  },
+  {
+    "id": 399,
+    "domain": "social_studies",
+    "front": "What is the Canadian Multiculturalism Act?",
+    "back": "The Canadian Multiculturalism Act, passed in 1988, officially recognizes and celebrates Canada's cultural diversity. It encourages all Canadians to preserve and share their cultural heritage while participating fully in Canadian society."
+  },
+  {
+    "id": 400,
+    "domain": "social_studies",
+    "front": "What is the Canadian Charter of Rights and Freedoms?",
+    "back": "The Canadian Charter of Rights and Freedoms is part of the Constitution Act of 1982. It guarantees basic rights for all Canadians, including freedom of speech, freedom of religion, equality rights, and legal protections."
+  },
+  {
+    "id": 401,
+    "domain": "social_studies",
+    "front": "What is the Constitution Act of 1982?",
+    "back": "The Constitution Act of 1982 was a major legal change that patriated Canada's constitution, meaning Canada no longer needed Britain's approval to change its own laws. It also added the Charter of Rights and Freedoms."
+  },
+  {
+    "id": 402,
+    "domain": "social_studies",
+    "front": "What is the role of the Prime Minister in Canada?",
+    "back": "The Prime Minister is the head of the federal government and leads the Cabinet. The Prime Minister sets government policy, appoints Cabinet ministers, and is usually the leader of the party that wins the most seats in the House of Commons."
+  },
+  {
+    "id": 403,
+    "domain": "social_studies",
+    "front": "What does the Governor General do in Canada?",
+    "back": "The Governor General is the representative of the King (or Queen) in Canada and carries out formal duties such as opening Parliament and signing laws. The Governor General follows the advice of the Prime Minister in most decisions."
+  },
+  {
+    "id": 404,
+    "domain": "social_studies",
+    "front": "What are the two houses of Canada's Parliament?",
+    "back": "Canada's Parliament has two houses: the House of Commons and the Senate. Members of the House of Commons are elected by voters, while Senators are appointed by the Governor General on the advice of the Prime Minister."
+  },
+  {
+    "id": 405,
+    "domain": "social_studies",
+    "front": "What is the role of the House of Commons?",
+    "back": "The House of Commons is the elected chamber of Parliament where most laws are debated and passed. Members of Parliament (MPs) represent their local riding and vote on bills, budgets, and government policies."
+  },
+  {
+    "id": 406,
+    "domain": "social_studies",
+    "front": "What is the role of the Senate in Canada?",
+    "back": "The Senate reviews bills passed by the House of Commons, suggests changes, and can delay legislation. Senators are not elected; they are appointed and can serve until age 75."
+  },
+  {
+    "id": 407,
+    "domain": "social_studies",
+    "front": "How does the first-past-the-post electoral system work?",
+    "back": "In the first-past-the-post system, voters choose one candidate in their local riding. The candidate with the most votes wins the seat in the House of Commons, even if they did not get a majority of votes."
+  },
+  {
+    "id": 408,
+    "domain": "social_studies",
+    "front": "What is a riding in Canadian elections?",
+    "back": "A riding, also called an electoral district or constituency, is a geographic area that elects one Member of Parliament to the House of Commons. Canada has 343 ridings in total."
+  },
+  {
+    "id": 409,
+    "domain": "social_studies",
+    "front": "What powers belong to the federal government in Canada?",
+    "back": "The federal government handles matters that affect all Canadians, such as national defense, immigration, criminal law, banking, and trade between provinces. These powers are set out in the Constitution Act of 1867."
+  },
+  {
+    "id": 410,
+    "domain": "social_studies",
+    "front": "What powers belong to provincial governments in Canada?",
+    "back": "Provinces control areas like education, health care, most property and civil rights, and natural resources within their borders. These areas were given to provinces under the Constitution because they vary greatly by region."
+  },
+  {
+    "id": 411,
+    "domain": "social_studies",
+    "front": "What is the role of municipal government in Canada?",
+    "back": "Municipal governments are local governments for cities, towns, and counties. They handle day-to-day services like road maintenance, garbage collection, local parks, and public transit."
+  },
+  {
+    "id": 412,
+    "domain": "social_studies",
+    "front": "What is the Supreme Court of Canada?",
+    "back": "The Supreme Court of Canada is the highest court in the country. It has nine judges appointed by the Prime Minister and makes final decisions on important legal questions, including whether laws follow the Constitution."
+  },
+  {
+    "id": 413,
+    "domain": "social_studies",
+    "front": "What rights does Canadian citizenship give you?",
+    "back": "Canadian citizens have the right to vote in federal elections, hold a Canadian passport, and run for public office. They also enjoy all the protections in the Charter of Rights and Freedoms."
+  },
+  {
+    "id": 414,
+    "domain": "social_studies",
+    "front": "Who was Prime Minister Pierre Elliott Trudeau and what is he known for?",
+    "back": "Pierre Elliott Trudeau was Prime Minister from 1968 to 1979 and again from 1980 to 1984. He is known for promoting bilingualism, the Charter of Rights and Freedoms, and the patriation of the Constitution in 1982."
+  },
+  {
+    "id": 415,
+    "domain": "social_studies",
+    "front": "What is the Official Languages Act and when was it passed?",
+    "back": "The Official Languages Act was passed in 1969 under Prime Minister Trudeau. It made English and French the two official languages of Canada's federal government, meaning Canadians can use either language in federal services."
+  },
+  {
+    "id": 416,
+    "domain": "social_studies",
+    "front": "What were the numbered Treaties in Canada?",
+    "back": "The numbered Treaties (Treaties 1 through 11) were agreements signed between 1871 and 1921 between the Canadian government and various First Nations. They covered large areas of land across western and northern Canada."
+  },
+  {
+    "id": 417,
+    "domain": "social_studies",
+    "front": "What was the Indian Act of 1876?",
+    "back": "The Indian Act of 1876 was a Canadian federal law that controlled many aspects of Indigenous peoples' lives, including their land, governance, and cultural practices. Many of its provisions were restrictive and harmful."
+  },
+  {
+    "id": 418,
+    "domain": "social_studies",
+    "front": "What is the Meech Lake Accord?",
+    "back": "The Meech Lake Accord was a proposed set of constitutional changes negotiated in 1987 that would have recognized Quebec as a 'distinct society.' It failed to be ratified by all provinces by the 1990 deadline."
+  },
+  {
+    "id": 419,
+    "domain": "social_studies",
+    "front": "What is the role of the Cabinet in the Canadian government?",
+    "back": "The Cabinet is a group of senior ministers chosen by the Prime Minister. Each minister is responsible for a government department, such as Health, Finance, or Defense, and together they set the direction of government policy."
+  },
+  {
+    "id": 420,
+    "domain": "social_studies",
+    "front": "What is a bill in the Canadian legislative process?",
+    "back": "A bill is a proposed new law or change to an existing law. It must be read and voted on in both the House of Commons and the Senate before the Governor General signs it into law."
+  },
+  {
+    "id": 421,
+    "domain": "social_studies",
+    "front": "How many provinces and territories does Canada have?",
+    "back": "Canada has ten provinces and three territories. The provinces are: Ontario, Quebec, British Columbia, Alberta, Manitoba, Saskatchewan, Nova Scotia, New Brunswick, Newfoundland and Labrador, and Prince Edward Island. The territories are Yukon, Northwest Territories, and Nunavut."
+  },
+  {
+    "id": 422,
+    "domain": "social_studies",
+    "front": "What is the capital of British Columbia?",
+    "back": "The capital of British Columbia is Victoria, located on Vancouver Island. Victoria is known for its British colonial architecture and is the seat of the provincial legislature."
+  },
+  {
+    "id": 423,
+    "domain": "social_studies",
+    "front": "What is the capital of Alberta?",
+    "back": "The capital of Alberta is Edmonton, located in the central part of the province. Edmonton is home to the provincial legislature and is an important center for the oil and gas industry."
+  },
+  {
+    "id": 424,
+    "domain": "social_studies",
+    "front": "What is the capital of Ontario?",
+    "back": "The capital of Ontario is Toronto, which is also Canada's largest city. Toronto is a major financial and cultural center and is home to the Ontario provincial legislature."
+  },
+  {
+    "id": 425,
+    "domain": "social_studies",
+    "front": "What is the capital of Quebec?",
+    "back": "The capital of Quebec is Quebec City, located on the St. Lawrence River. Quebec City is the oldest walled city in North America north of Mexico and is the seat of the Quebec National Assembly."
+  },
+  {
+    "id": 426,
+    "domain": "social_studies",
+    "front": "What are Canada's six major physical regions?",
+    "back": "Canada's six major physical regions are the Canadian Shield, the Cordillera (mountains in the west), the Interior Plains, the Great Lakes and St. Lawrence Lowlands, the Atlantic Region, and the Arctic. Each region has distinct landforms, climate, and resources."
+  },
+  {
+    "id": 427,
+    "domain": "social_studies",
+    "front": "What is the Canadian Shield?",
+    "back": "The Canadian Shield is a vast area of ancient rock covering much of central and eastern Canada, including northern Ontario, Quebec, and Manitoba. It is rich in minerals and forests but has thin soil that is difficult to farm."
+  },
+  {
+    "id": 428,
+    "domain": "social_studies",
+    "front": "What is the Cordillera region of Canada?",
+    "back": "The Cordillera is the mountainous region in western Canada, including the Rocky Mountains and the Coast Mountains. It covers most of British Columbia and parts of Alberta and the Yukon, and contains valuable minerals, forests, and rivers."
+  },
+  {
+    "id": 429,
+    "domain": "social_studies",
+    "front": "What are the Interior Plains of Canada?",
+    "back": "The Interior Plains stretch across Alberta, Saskatchewan, and Manitoba. This flat, fertile region is sometimes called the Prairies and is Canada's most important farming area, especially for wheat and canola."
+  },
+  {
+    "id": 430,
+    "domain": "social_studies",
+    "front": "What is the Great Lakes and St. Lawrence Lowlands region?",
+    "back": "This region covers southern Ontario and southern Quebec, where the land is flat and the climate is mild. It is the most populated region in Canada and home to most of the country's manufacturing and agriculture."
+  },
+  {
+    "id": 431,
+    "domain": "social_studies",
+    "front": "What natural resources are found in the Prairie provinces?",
+    "back": "The Prairie provinces of Alberta, Saskatchewan, and Manitoba are rich in oil, natural gas, potash, wheat, and canola. Alberta in particular is known for its oil sands, one of the world's largest petroleum deposits."
+  },
+  {
+    "id": 432,
+    "domain": "social_studies",
+    "front": "What natural resources are found in British Columbia?",
+    "back": "British Columbia has large forests used for timber and pulp production, rich mineral deposits, and major fisheries in the Pacific Ocean. It also has significant hydroelectric power generated from its many rivers."
+  },
+  {
+    "id": 433,
+    "domain": "social_studies",
+    "front": "What does latitude tell you on a map?",
+    "back": "Latitude measures how far north or south a location is from the equator. It is shown as horizontal lines on a map, with the equator at 0 degrees and the North and South Poles at 90 degrees."
+  },
+  {
+    "id": 434,
+    "domain": "social_studies",
+    "front": "What does longitude tell you on a map?",
+    "back": "Longitude measures how far east or west a location is from the prime meridian, which runs through Greenwich, England. It is shown as vertical lines on a map and ranges from 0 to 180 degrees east or west."
+  },
+  {
+    "id": 435,
+    "domain": "social_studies",
+    "front": "What is a map scale?",
+    "back": "A map scale shows the relationship between distance on the map and real distance on the ground. For example, 1 cm on the map might represent 100 km in the real world."
+  },
+  {
+    "id": 436,
+    "domain": "social_studies",
+    "front": "What is a map legend?",
+    "back": "A map legend, also called a key, explains what the symbols and colors on a map mean. For example, a blue line might represent a river, or a triangle might represent a mountain."
+  },
+  {
+    "id": 437,
+    "domain": "social_studies",
+    "front": "What is supply and demand?",
+    "back": "Supply is how much of a product or service is available, and demand is how much people want it. When demand goes up and supply stays the same, prices usually rise. When supply goes up and demand stays the same, prices usually fall."
+  },
+  {
+    "id": 438,
+    "domain": "social_studies",
+    "front": "What is GDP?",
+    "back": "GDP stands for Gross Domestic Product. It measures the total value of all goods and services produced in a country in one year. GDP is used as a measure of a country's economic size and health."
+  },
+  {
+    "id": 439,
+    "domain": "social_studies",
+    "front": "What is inflation?",
+    "back": "Inflation is a general rise in the price of goods and services over time. When inflation is high, each dollar buys less than it used to. Canada's central bank, the Bank of Canada, tries to keep inflation low and stable."
+  },
+  {
+    "id": 440,
+    "domain": "social_studies",
+    "front": "What is unemployment?",
+    "back": "Unemployment is the percentage of people in the workforce who do not have a job but are actively looking for one. High unemployment can indicate a weak economy, while very low unemployment can signal strong economic activity."
+  },
+  {
+    "id": 441,
+    "domain": "social_studies",
+    "front": "What is a mixed economy?",
+    "back": "A mixed economy combines features of both a free market and government involvement. Canada has a mixed economy, where private businesses operate freely but the government also provides services like health care and regulates industries."
+  },
+  {
+    "id": 442,
+    "domain": "social_studies",
+    "front": "What is fiscal policy?",
+    "back": "Fiscal policy refers to government decisions about spending and taxation. When the economy is slow, the government might spend more or cut taxes to encourage growth. When the economy is overheating, it might do the opposite."
+  },
+  {
+    "id": 443,
+    "domain": "social_studies",
+    "front": "What is monetary policy in Canada?",
+    "back": "Monetary policy is how the Bank of Canada controls the money supply and interest rates to manage economic stability. Raising interest rates slows borrowing and spending, while lowering them encourages economic activity."
+  },
+  {
+    "id": 444,
+    "domain": "social_studies",
+    "front": "What is CUSMA and why does it matter to Canada?",
+    "back": "CUSMA stands for the Canada-United States-Mexico Agreement, which replaced NAFTA in 2020. It governs trade rules between Canada, the United States, and Mexico, and is critical because the United States is Canada's largest trading partner."
+  },
+  {
+    "id": 445,
+    "domain": "social_studies",
+    "front": "What is the WTO and what does it do?",
+    "back": "The WTO stands for the World Trade Organization. It sets international rules for trade between countries and helps resolve trade disputes. Canada is a member and uses the WTO to access global markets."
+  },
+  {
+    "id": 446,
+    "domain": "social_studies",
+    "front": "What is globalization?",
+    "back": "Globalization is the process by which countries become more connected through trade, communication, and the movement of people and ideas. It has made it easier for Canadians to buy goods from around the world but has also affected local industries."
+  },
+  {
+    "id": 447,
+    "domain": "social_studies",
+    "front": "What is a market economy?",
+    "back": "In a market economy, decisions about what to produce and sell are made by individuals and businesses based on supply and demand, not by the government. Prices are set by competition in the marketplace."
+  },
+  {
+    "id": 448,
+    "domain": "social_studies",
+    "front": "What is the capital of Canada?",
+    "back": "The capital of Canada is Ottawa, located in the province of Ontario near the Quebec border. Ottawa is home to Parliament Hill, the Supreme Court of Canada, and many national museums."
+  },
+  {
+    "id": 449,
+    "domain": "social_studies",
+    "front": "What is the capital of Manitoba?",
+    "back": "The capital of Manitoba is Winnipeg, located at the geographic center of Canada. Winnipeg is the largest city in Manitoba and is an important hub for transportation and agriculture."
+  },
+  {
+    "id": 450,
+    "domain": "social_studies",
+    "front": "What is the capital of Saskatchewan?",
+    "back": "The capital of Saskatchewan is Regina. It is home to the Royal Canadian Mounted Police training depot and the Saskatchewan provincial legislature."
+  },
+  {
+    "id": 451,
+    "domain": "social_studies",
+    "front": "What is the capital of Nova Scotia?",
+    "back": "The capital of Nova Scotia is Halifax, located on the Atlantic coast. Halifax has one of the largest natural harbors in the world and played an important role in both World War I and World War II."
+  },
+  {
+    "id": 452,
+    "domain": "social_studies",
+    "front": "What is the capital of New Brunswick?",
+    "back": "The capital of New Brunswick is Fredericton. New Brunswick is one of Canada's officially bilingual provinces, with both English and French as official languages."
+  },
+  {
+    "id": 453,
+    "domain": "social_studies",
+    "front": "What is the capital of Newfoundland and Labrador?",
+    "back": "The capital of Newfoundland and Labrador is St. John's, located on the northeastern tip of Newfoundland Island. It is one of the oldest European settlements in North America."
+  },
+  {
+    "id": 454,
+    "domain": "social_studies",
+    "front": "What is the capital of Prince Edward Island?",
+    "back": "The capital of Prince Edward Island is Charlottetown. Charlottetown is known as the birthplace of Confederation because the 1864 conference that led to Canada's creation was held there."
+  },
+  {
+    "id": 455,
+    "domain": "social_studies",
+    "front": "What is the capital of Yukon?",
+    "back": "The capital of Yukon is Whitehorse, located in the southern part of the territory. Yukon is known for the Klondike Gold Rush of 1896 and 1897, which brought thousands of people to the region."
+  },
+  {
+    "id": 456,
+    "domain": "social_studies",
+    "front": "What is the capital of the Northwest Territories?",
+    "back": "The capital of the Northwest Territories is Yellowknife, located on the northern shore of Great Slave Lake. The region is rich in diamonds, gold, and other minerals."
+  },
+  {
+    "id": 457,
+    "domain": "social_studies",
+    "front": "What is the capital of Nunavut?",
+    "back": "The capital of Nunavut is Iqaluit, located on Baffin Island. Nunavut became Canada's newest territory in 1999 and has a majority Inuit population."
+  },
+  {
+    "id": 458,
+    "domain": "social_studies",
+    "front": "What is the Arctic region of Canada?",
+    "back": "Canada's Arctic region covers the far north, including the three territories and northern parts of some provinces. It is a cold, remote area with permafrost, tundra, and significant Indigenous communities, particularly Inuit."
+  },
+  {
+    "id": 459,
+    "domain": "social_studies",
+    "front": "What natural resources are found in Canada's Atlantic region?",
+    "back": "The Atlantic provinces are known for fishing, forestry, and offshore oil and gas, especially in Newfoundland. Fishing has historically been central to the region's economy, though fish stocks have declined over the decades."
+  },
+  {
+    "id": 460,
+    "domain": "social_studies",
+    "front": "What does personal finance mean?",
+    "back": "Personal finance refers to how an individual manages their money, including earning income, budgeting expenses, saving, and making investments. Good personal finance habits help people meet their needs and plan for the future."
+  },
+  {
+    "id": 461,
+    "domain": "social_studies",
+    "front": "What is a budget?",
+    "back": "A budget is a plan that shows how much money you expect to earn and how you plan to spend it. Making a budget helps people avoid spending more than they earn and set aside money for savings and goals."
+  },
+  {
+    "id": 462,
+    "domain": "social_studies",
+    "front": "What is interest in personal finance?",
+    "back": "Interest is the extra money you pay when you borrow money, or the extra money you earn when you save or invest. For example, if you borrow money from a bank, you pay back the original amount plus interest."
+  },
+  {
+    "id": 463,
+    "domain": "social_studies",
+    "front": "What are Canada's two official languages?",
+    "back": "Canada's two official languages are English and French. Both languages have equal status in federal government services, courts, and Parliament, as established by the Official Languages Act of 1969."
+  },
+  {
+    "id": 464,
+    "domain": "social_studies",
+    "front": "What was the Royal Proclamation of 1763?",
+    "back": "The Royal Proclamation of 1763 was issued by the British Crown after the Seven Years' War. It established rules for governing new territories and recognized Indigenous peoples' rights to their lands, requiring the Crown to negotiate before taking land."
+  },
+  {
+    "id": 465,
+    "domain": "social_studies",
+    "front": "What is the Statute of Westminster?",
+    "back": "The Statute of Westminster, passed in 1931, gave Canada and other British Dominions the power to make their own laws without needing British approval. It was a major step in Canada's full independence from Britain."
+  },
+  {
+    "id": 466,
+    "domain": "social_studies",
+    "front": "Who are the Metis people?",
+    "back": "The Metis are a distinct Indigenous people who are descendants of First Nations people and European settlers, mainly French fur traders. They developed their own culture, language (Michif), and traditions, particularly in the Prairies."
+  },
+  {
+    "id": 467,
+    "domain": "social_studies",
+    "front": "What was the Northwest Rebellion of 1885?",
+    "back": "The Northwest Rebellion was an uprising led by Louis Riel and the Metis people of Saskatchewan against the Canadian government over land rights and recognition of their community. The rebellion was defeated and Riel was executed, making him a symbol of Metis resistance."
+  },
+  {
+    "id": 468,
+    "domain": "social_studies",
+    "front": "What is the role of the Bank of Canada?",
+    "back": "The Bank of Canada is the country's central bank. It controls interest rates, issues Canadian currency, and works to keep inflation stable. It is independent from the government but works closely with the Minister of Finance."
+  },
+  {
+    "id": 469,
+    "domain": "social_studies",
+    "front": "What is environmental economics?",
+    "back": "Environmental economics studies how economic activity affects the natural environment and how environmental policies can be designed to protect resources. Examples include carbon taxes and regulations on pollution."
+  },
+  {
+    "id": 470,
+    "domain": "social_studies",
+    "front": "What is a carbon tax and why does Canada use it?",
+    "back": "A carbon tax is a fee charged on the burning of fuels that produce greenhouse gases, like gasoline and natural gas. Canada uses a carbon tax to encourage people and businesses to use less fossil fuel and reduce their impact on the climate."
+  },
+  {
+    "id": 471,
+    "domain": "social_studies",
+    "front": "What is the Canadian Shield known for economically?",
+    "back": "The Canadian Shield is rich in mineral resources, including nickel, copper, gold, and uranium. Mining is a major industry in this region, and the many rivers and lakes also support hydroelectric power generation."
+  },
+  {
+    "id": 472,
+    "domain": "social_studies",
+    "front": "What is the difference between a province and a territory in Canada?",
+    "back": "Provinces have their powers guaranteed by the Constitution and can make their own decisions in areas like health care and education. Territories have powers given to them by the federal government, which means the federal government has more direct authority over them."
+  },
+  {
+    "id": 473,
+    "domain": "social_studies",
+    "front": "What is the Quiet Revolution in Quebec?",
+    "back": "The Quiet Revolution was a period of rapid social and political change in Quebec during the 1960s. The Quebec government took greater control of education, health, and the economy, and a strong French-Canadian nationalist movement emerged."
+  },
+  {
+    "id": 474,
+    "domain": "social_studies",
+    "front": "What were the Quebec referendums on sovereignty?",
+    "back": "Quebec held two referendums on whether to separate from Canada, in 1980 and 1995. Both times, the majority voted to remain part of Canada, though the 1995 vote was very close, with about 50.6 percent voting No."
+  },
+  {
+    "id": 475,
+    "domain": "social_studies",
+    "front": "What is equalization in Canada?",
+    "back": "Equalization is a federal program that transfers money from wealthier provinces to poorer ones, so that all Canadians have access to comparable public services regardless of where they live. It is written into the Constitution."
+  },
+  {
+    "id": 476,
+    "domain": "social_studies",
+    "front": "What are the Fathers of Confederation?",
+    "back": "The Fathers of Confederation were the political leaders who worked to create Canada in 1867. Key figures included John A. Macdonald, George-Etienne Cartier, and George Brown, who negotiated the terms of union at conferences in Charlottetown and Quebec City."
+  },
+  {
+    "id": 477,
+    "domain": "social_studies",
+    "front": "What is the difference between a government deficit and a government debt?",
+    "back": "A deficit is when the government spends more money in one year than it takes in through taxes and revenue. Debt is the total amount the government owes, built up over many years of running deficits."
+  },
+  {
+    "id": 478,
+    "domain": "social_studies",
+    "front": "What is trade and why is it important to Canada's economy?",
+    "back": "Trade is the buying and selling of goods and services between countries. Canada depends heavily on exports of natural resources and manufactured goods, and its economy would be much weaker without international trade."
+  },
+  {
+    "id": 479,
+    "domain": "social_studies",
+    "front": "What were the Chinese Head Tax and Chinese Exclusion Act?",
+    "back": "The Chinese Head Tax, introduced in 1885, charged Chinese immigrants a fee to enter Canada. The Chinese Exclusion Act of 1923 completely banned most Chinese immigration until it was repealed in 1947. The Canadian government formally apologized for these policies in 2006."
+  },
+  {
+    "id": 480,
+    "domain": "social_studies",
+    "front": "What is the United Nations and is Canada a member?",
+    "back": "The United Nations is an international organization founded in 1945 to promote peace, human rights, and cooperation among countries. Canada was one of its founding members and continues to be active in UN peacekeeping missions."
+  },
+  {
+    "id": 481,
+    "domain": "social_studies",
+    "front": "What is Canada's role in NATO?",
+    "back": "Canada is a founding member of NATO, the North Atlantic Treaty Organization, established in 1949. NATO is a military alliance in which member countries agree to defend each other if attacked. Canada contributes troops and funding to collective defense."
+  },
+  {
+    "id": 482,
+    "domain": "social_studies",
+    "front": "What is the Klondike Gold Rush?",
+    "back": "The Klondike Gold Rush began in 1896 when gold was discovered near Dawson City in the Yukon. Tens of thousands of people rushed to the region from 1897 to 1898 hoping to get rich, transforming the Yukon and spurring infrastructure development."
+  },
+  {
+    "id": 483,
+    "domain": "social_studies",
+    "front": "What is meant by the term 'natural region' in Canadian geography?",
+    "back": "A natural region is a large area defined by its landforms, climate, soils, and vegetation. Canada's natural regions each have their own distinct environment and types of resources, which shape how people live and work there."
+  },
+  {
+    "id": 484,
+    "domain": "social_studies",
+    "front": "What is the tundra and where is it found in Canada?",
+    "back": "The tundra is a cold, flat, treeless landscape found in Canada's far north, including much of Nunavut and the Northwest Territories. Vegetation is limited to low shrubs, mosses, and lichens because the ground is frozen most of the year."
+  },
+  {
+    "id": 485,
+    "domain": "social_studies",
+    "front": "What is the boreal forest and where is it in Canada?",
+    "back": "The boreal forest, also called the taiga, is a vast band of coniferous trees that stretches across much of Canada from British Columbia to Newfoundland. It is one of the world's largest forest ecosystems and is important for timber, wildlife, and carbon storage."
+  },
+  {
+    "id": 486,
+    "domain": "social_studies",
+    "front": "What is the significance of the St. Lawrence River to Canada?",
+    "back": "The St. Lawrence River is a major waterway linking the Great Lakes to the Atlantic Ocean. It was the main route for European exploration and settlement and remains crucial for shipping goods between central Canada and the rest of the world."
+  },
+  {
+    "id": 487,
+    "domain": "social_studies",
+    "front": "What is the Great Lakes system and which provinces border it?",
+    "back": "The Great Lakes are five large freshwater lakes (Superior, Michigan, Huron, Erie, and Ontario) that sit on the border between Canada and the United States. Ontario is the main Canadian province bordering the Great Lakes."
+  },
+  {
+    "id": 488,
+    "domain": "social_studies",
+    "front": "What was Canada's Points System for immigration?",
+    "back": "Canada's Points System, introduced in 1967, selects immigrants based on factors like education, language skills, job experience, and age, rather than country of origin. This made Canada's immigration system more fair and helped bring in skilled workers from around the world."
+  },
+  {
+    "id": 489,
+    "domain": "social_studies",
+    "front": "What is a recession?",
+    "back": "A recession is a period when the economy shrinks and economic activity slows down. It is usually defined as two or more consecutive quarters of falling GDP. During a recession, unemployment often rises and businesses may cut back."
+  },
+  {
+    "id": 490,
+    "domain": "social_studies",
+    "front": "What is the Prairies region and what is it mainly used for?",
+    "back": "The Prairies cover Alberta, Saskatchewan, and Manitoba. The flat, fertile land is mainly used for grain farming, especially wheat, canola, and barley. Alberta also has major oil and gas production."
+  },
+  {
+    "id": 491,
+    "domain": "social_studies",
+    "front": "Who was Tommy Douglas and what is he known for?",
+    "back": "Tommy Douglas was the Premier of Saskatchewan from 1944 to 1961 and later the leader of the federal NDP party. He is known as the father of Medicare in Canada, having introduced public health care in Saskatchewan, which became the model for Canada's national system."
+  },
+  {
+    "id": 492,
+    "domain": "social_studies",
+    "front": "What is the National Policy of 1879?",
+    "back": "The National Policy was introduced by Prime Minister Macdonald in 1879. It included high tariffs to protect Canadian manufacturers, building the transcontinental railway, and encouraging settlement of the west. It shaped Canada's economic development for decades."
+  },
+  {
+    "id": 493,
+    "domain": "social_studies",
+    "front": "What is a tariff and how does it affect trade?",
+    "back": "A tariff is a tax placed on imported goods. It makes foreign products more expensive so that consumers are more likely to buy goods made at home. Tariffs protect local industries but can also lead to higher prices for consumers."
+  },
+  {
+    "id": 494,
+    "domain": "social_studies",
+    "front": "What is the Laurentian Plateau?",
+    "back": "The Laurentian Plateau is another name for the Canadian Shield, a vast region of ancient rock covering much of central and eastern Canada. It is characterized by thin soils, many lakes and rivers, and is rich in mineral resources."
+  },
+  {
+    "id": 495,
+    "domain": "social_studies",
+    "front": "What is Nunavut and when did it become a territory?",
+    "back": "Nunavut is Canada's newest and largest territory, created on April 1, 1999. It was carved out of the Northwest Territories to provide self-governance for the Inuit people, who make up the majority of its population."
+  },
+  {
+    "id": 496,
+    "domain": "social_studies",
+    "front": "What is the Canadian Human Rights Act?",
+    "back": "The Canadian Human Rights Act, passed in 1977, prohibits discrimination based on race, gender, religion, disability, sexual orientation, and other grounds in federal workplaces and services. It protects Canadians from unfair treatment."
+  },
+  {
+    "id": 497,
+    "domain": "social_studies",
+    "front": "What is the significance of Vimy Ridge to Canadian identity?",
+    "back": "The Canadian victory at Vimy Ridge in 1917 is often described as the moment Canada came into its own as a nation. All four Canadian divisions fought together for the first time, and the success gave Canadians a sense of distinct national pride apart from Britain."
+  },
+  {
+    "id": 498,
+    "domain": "social_studies",
+    "front": "What is the role of natural resources in Canada's economy?",
+    "back": "Natural resources like oil, timber, minerals, and fish are central to Canada's economy and make up a large share of its exports. Canada is one of the world's top exporters of energy, lumber, and agricultural products."
+  },
+  {
+    "id": 499,
+    "domain": "social_studies",
+    "front": "What is per capita income?",
+    "back": "Per capita income is the average income per person in a country or region, calculated by dividing the total income by the total population. It is used to compare the standard of living between different places."
+  },
+  {
+    "id": 500,
+    "domain": "social_studies",
+    "front": "What is the significance of the Charlottetown Conference of 1864?",
+    "back": "The Charlottetown Conference was the first major meeting of colonial leaders to discuss uniting into one country. Held in Prince Edward Island in 1864, it laid the groundwork for Confederation in 1867 and is why Charlottetown is called the birthplace of Canada."
+  }
+]
